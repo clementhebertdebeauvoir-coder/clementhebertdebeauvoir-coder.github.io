@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comment publier un article | Carnet</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<a class="back-link" href="../index.html">← Retour à l'accueil</a>
+<article>
+  <header class="post-header">
+    <h1>Comment publier un article</h1>
+    <time datetime="2026-11-20">20 novembre 2026</time>
+  </header>
+  <p>Ce site est volontairement simple: des pages HTML qui se ressemblent, une feuille de style unique. Publier un article ne demande ni framework ni compilation.</p>
+  <h2>Structure du site</h2>
+  <pre><code>index.html                      page d'accueil (liste des articles)
+style.css                       feuille de style
+posts/                          un fichier HTML par article
+  bienvenue.html                modèle d'article le plus simple</code></pre>
+  <h2>Ajouter un article</h2>
+  <ol>
+    <li>Copier <code>posts/bienvenue.html</code> et renommer le fichier, par exemple <code>posts/mon-sujet.html</code>.</li>
+    <li>Changer le titre dans la balise <code>title</code> et dans <code>h1</code>, la date dans <code>time</code>, puis écrire le texte.</li>
+    <li>Ajouter le lien du nouvel article en haut de la liste dans <code>index.html</code>.</li>
+    <li>Commit et push, sur GitHub directement ou par git. GitHub Pages republie le site automatiquement en une à deux minutes.</li>
+  </ol>
+  <p>Autre méthode: décrire l'article à Vibe, l'assistant de Mistral AI, connecté à GitHub. Il écrit le fichier, met à jour l'accueil et pousse le commit.</p>
+</article>
+<footer>
+  <p>Propulsé par GitHub Pages. <a href="https://github.com/clementhebertdebeauvoir-coder">Mon profil GitHub</a>.</p>
+</footer>
+</body>
+</html>
