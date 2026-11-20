@@ -4,32 +4,55 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Comment publier un article | Carnet</title>
+<meta name="description" content="La structure du site et la marche à suivre pour ajouter un article en cinq minutes.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Comment publier un article | Carnet">
+<meta property="og:url" content="https://clementhebertdebeauvoir-coder.github.io/posts/comment-publier-un-article.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23b4502a'/%3E%3Ctext x='50' y='68' font-size='58' font-family='Georgia,serif' font-style='italic' fill='%23fffdf8' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-<a class="back-link" href="../index.html">← Retour à l'accueil</a>
-<article>
-  <header class="post-header">
-    <h1>Comment publier un article</h1>
-    <time datetime="2026-11-20">20 novembre 2026</time>
+<div class="wrap">
+
+  <header class="site-header">
+    <div class="monogram" aria-hidden="true">C</div>
+    <div>
+      <h1 class="site-title"><a href="../index.html">Carnet</a></h1>
+      <p class="site-subtitle">Clément Hebert de Beauvoir</p>
+    </div>
   </header>
-  <p>Ce site est volontairement simple: des pages HTML qui se ressemblent, une feuille de style unique. Publier un article ne demande ni framework ni compilation.</p>
-  <h2>Structure du site</h2>
-  <pre><code>index.html                      page d'accueil (liste des articles)
+  <hr class="header-rule">
+
+  <a class="back-link" href="../index.html">← Retour à l'accueil</a>
+
+  <main>
+    <article>
+      <header class="post-header">
+        <h1>Comment publier un article</h1>
+        <time datetime="2026-11-20">20 novembre 2026</time>
+      </header>
+      <p>Ce site est volontairement simple&nbsp;: des pages HTML qui se ressemblent, une feuille de style unique. Publier un article ne demande ni framework ni compilation.</p>
+      <h2>Structure du site</h2>
+      <pre><code>index.html                      page d'accueil (liste des articles)
 style.css                       feuille de style
 posts/                          un fichier HTML par article
   bienvenue.html                modèle d'article le plus simple</code></pre>
-  <h2>Ajouter un article</h2>
-  <ol>
-    <li>Copier <code>posts/bienvenue.html</code> et renommer le fichier, par exemple <code>posts/mon-sujet.html</code>.</li>
-    <li>Changer le titre dans la balise <code>title</code> et dans <code>h1</code>, la date dans <code>time</code>, puis écrire le texte.</li>
-    <li>Ajouter le lien du nouvel article en haut de la liste dans <code>index.html</code>.</li>
-    <li>Commit et push, sur GitHub directement ou par git. GitHub Pages republie le site automatiquement en une à deux minutes.</li>
-  </ol>
-  <p>Autre méthode: décrire l'article à Vibe, l'assistant de Mistral AI, connecté à GitHub. Il écrit le fichier, met à jour l'accueil et pousse le commit.</p>
-</article>
-<footer>
-  <p>Propulsé par GitHub Pages. <a href="https://github.com/clementhebertdebeauvoir-coder">Mon profil GitHub</a>.</p>
-</footer>
+      <h2>Ajouter un article</h2>
+      <ol>
+        <li>Copier <code>posts/bienvenue.html</code> et renommer le fichier, par exemple <code>posts/mon-sujet.html</code>.</li>
+        <li>Changer le titre dans la balise <code>&lt;title&gt;</code> et dans <code>&lt;h1&gt;</code>, la date dans <code>&lt;time&gt;</code>, puis écrire le texte.</li>
+        <li>Ajouter le lien du nouvel article en haut de la liste dans <code>index.html</code>.</li>
+        <li>Commit et push, sur GitHub directement ou par git. GitHub Pages republie le site automatiquement en une à deux minutes.</li>
+      </ol>
+      <p>Autre méthode&nbsp;: décrire l'article à Vibe, l'assistant de Mistral AI, connecté à GitHub. Il écrit le fichier, met à jour l'accueil et pousse le commit.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>Propulsé par <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+    <p><a href="https://github.com/clementhebertdebeauvoir-coder">Mon profil GitHub</a></p>
+  </footer>
+
+</div>
 </body>
 </html>
