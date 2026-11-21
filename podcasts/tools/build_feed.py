@@ -8,15 +8,34 @@ Usage :
 À relancer après chaque ajout d'épisodes audio (generate_audio.py).
 """
 import argparse
+import json
 import os
 import sys
 import xml.sax.saxutils as sx
 from email.utils import formatdate
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import ROOT, audio_path, iter_seances, load_data
+from common import AUDIO_DIR, ROOT, audio_path, iter_seances, load_data
 
 DEFAULT_BASE = "https://clementhebertdebeauvoir-coder.github.io/podcasts/"
+
+
+def write_manifest():
+    """Écrit data/audio.json : liste des épisodes dont le mp3 existe vraiment."""
+    episodes = []
+    if os.path.isdir(AUDIO_DIR):
+        for auteur_id in sorted(os.listdir(AUDIO_DIR)):
+            d = os.path.join(AUDIO_DIR, auteur_id)
+            if not os.path.isdir(d):
+                continue
+            for fname in sorted(os.listdir(d)):
+                if fname.endswith(".mp3"):
+                    episodes.append("%s/%s" % (auteur_id, fname[:-4]))
+    out = os.path.join(ROOT, "data", "audio.json")
+    with open(out, "w", encoding="utf-8") as f:
+        json.dump({"episodes": episodes}, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+    return len(episodes)
 
 
 def main():
@@ -77,6 +96,8 @@ def main():
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(xml)
     print("feed.xml écrit : %d épisodes → %s" % (len(items), os.path.relpath(args.out, ROOT)))
+    n_audio = write_manifest()
+    print("data/audio.json écrit : %d épisode(s) audio disponible(s)" % n_audio)
 
 
 if __name__ == "__main__":

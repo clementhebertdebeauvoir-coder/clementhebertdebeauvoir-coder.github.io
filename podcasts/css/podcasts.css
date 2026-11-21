@@ -239,6 +239,23 @@ body.has-player { padding-bottom: 7.5rem; }
 }
 .badge.ok { color: var(--ok); border-color: var(--ok); }
 .badge.encours { color: var(--accent); border-color: var(--accent); }
+.badge.dispo { color: var(--ok); border-color: var(--ok); }
+.badge.audio { color: var(--muted); border-style: dashed; }
+
+.banner-info {
+  margin-top: 1rem;
+  padding: 0.8rem 1rem;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  font-size: 0.92rem;
+}
+.banner-info code {
+  background: var(--code-bg, var(--border));
+  padding: 0.1rem 0.35rem;
+  border-radius: 5px;
+  font-size: 0.85em;
+}
 
 .duree { font-size: 0.82rem; color: var(--muted); }
 

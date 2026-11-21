@@ -20,6 +20,7 @@ podcasts/
   js/player.js                 données + lecteur + progression (localStorage)
   js/app.js / js/parcours.js   rendu des deux pages
   data/auteurs.json            les 20 auteurs × 10 séances (titre, résumé, durée)
+  data/audio.json              manifeste des épisodes dont le mp3 existe (régénéré par tools/build_feed.py) ; l'interface affiche « audio à générer » pour les autres
   fiches/<auteur>/<NN>.md      fiches lues à voix haute (Kant rédigé en exemple)
   audio/<auteur>/<NN>.mp3      épisodes générés par Voxtral (à produire)
   feed.xml                     flux RSS (régénéré par tools/build_feed.py)
@@ -48,8 +49,8 @@ python3 tools/generate_audio.py                   # tous les épisodes manquants
 python3 tools/generate_audio.py --auteur kant    # un auteur
 python3 tools/generate_audio.py --auteur kant --seance 1 --force
 
-# 3. Régénérer le flux RSS
-python3 tools/build_feed.py
+# 3. Régénérer le flux RSS + le manifeste de disponibilité audio
+python3 tools/build_feed.py    # écrit feed.xml ET data/audio.json
 ```
 
 Astuces :

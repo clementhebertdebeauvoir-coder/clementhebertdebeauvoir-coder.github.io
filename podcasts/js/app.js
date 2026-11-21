@@ -5,6 +5,7 @@
 
   function carteAuteur(a) {
     var done = P.countDone(a.id, a.seances);
+    var dispo = a.seances.filter(function (s) { return P.hasAudio(a.id, s.n); }).length;
     var pct = Math.round((done / a.seances.length) * 100);
     var li = document.createElement("li");
     li.innerHTML =
@@ -19,14 +20,15 @@
       '  <p class="accroche">' + P.esc(a.accroche) + "</p>" +
       '  <div class="progress-line">' +
       '    <div class="progress-track"><div class="progress-fill" style="width:' + pct + '%"></div></div>' +
-      "    <span>" + done + "/" + a.seances.length + " écoutées</span>" +
+      "    <span>" + done + "/" + a.seances.length + " écoutées · " + dispo + "/" + a.seances.length + " avec audio</span>" +
       "  </div>" +
       "</a>";
     li.dataset.nom = (a.nom + " " + a.epoque + " " + a.accroche).toLowerCase();
     return li;
   }
 
-  P.loadData().then(function (data) {
+  Promise.all([P.loadData(), P.loadManifest()]).then(function (res) {
+    var data = res[0];
     document.title = data.site.titre + " — 20 auteurs, 200 séances";
     var h = document.querySelector(".hero h1");
     if (h) h.textContent = data.site.titre;

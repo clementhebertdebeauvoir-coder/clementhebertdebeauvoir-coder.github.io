@@ -4,7 +4,9 @@
   "use strict";
 
   var DATA_URL = "data/auteurs.json";
+  var MANIFEST_URL = "data/audio.json";
   var LS_KEY = "philo-progress-v1";
+  var manifest = null;
 
   var state = {
     data: null,
@@ -63,6 +65,19 @@
 
   function findAuteur(id) {
     return (state.data.auteurs || []).find(function (a) { return a.id === id; }) || null;
+  }
+
+  function loadManifest() {
+    if (manifest) return Promise.resolve(manifest);
+    return fetch(MANIFEST_URL)
+      .then(function (r) { return r.ok ? r.json() : { episodes: [] }; })
+      .catch(function () { return { episodes: [] }; })
+      .then(function (m) { manifest = m; return m; });
+  }
+
+  function hasAudio(id, n) {
+    if (!manifest) return true;
+    return (manifest.episodes || []).indexOf(id + "/" + pad2(n)) !== -1;
   }
 
   /* ---------- Lecteur fixe ---------- */
@@ -199,6 +214,11 @@
     state.bar.querySelector("#pb-titre").textContent =
       "Séance " + seance.n + " — " + seance.titre;
     state.bar.querySelector("#pb-sous").textContent = auteur.nom + " · " + auteur.dates;
+    if (!hasAudio(auteur.id, seance.n)) {
+      notice("Pas d'épisode audio pour cette séance — générez-le avec tools/generate_audio.py "
+        + "(clé MISTRAL_API_KEY requise, voir podcasts/README.md)");
+      return;
+    }
     var prog = getProgress(auteur.id, seance.n);
     state.audio.src = audioUrl(auteur.id, seance.n);
     state.audio.playbackRate = parseFloat(state.bar.querySelector("#pb-speed").value) || 1;
@@ -258,6 +278,8 @@
 
   window.Podcasts = {
     loadData: loadData,
+    loadManifest: loadManifest,
+    hasAudio: hasAudio,
     findAuteur: findAuteur,
     audioUrl: audioUrl,
     ficheUrl: ficheUrl,
