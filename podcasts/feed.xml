@@ -6,13 +6,13 @@
     <atom:link href="https://clementhebertdebeauvoir-coder.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Les vingt plus grands auteurs de la philosophie, en dix séances de 25 minutes chacun. Un parcours académique à écouter.</description>
     <language>fr</language>
-    <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+    <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
     <itunes:summary>Les vingt plus grands auteurs de la philosophie, en dix séances de 25 minutes chacun. Un parcours académique à écouter.</itunes:summary>
     <itunes:category text="Education"/>
     <item>
       <title>Socrate — Séance 1 : Qui était Socrate ?</title>
       <description>L'Apologie de Platon : le philosophe qui questionne au lieu d'enseigner, et le moucheron d'Athènes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -22,7 +22,7 @@
     <item>
       <title>Socrate — Séance 2 : « Connais-toi toi-même »</title>
       <description>La maïeutique socratique : faire accoucher les esprits de leurs propres idées, à partir de l'aveu d'ignorance.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -32,7 +32,7 @@
     <item>
       <title>Socrate — Séance 3 : Le dialogue comme méthode</title>
       <description>Euthyphron : qu'est-ce que la piété ? Socrate démonte les fausses évidences par le seul usage de la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -42,7 +42,7 @@
     <item>
       <title>Socrate — Séance 4 : Criton : obéir ou fuir ?</title>
       <description>Condamné à mort, Socrate refuse de s'évader : les lois d'Athènes et le devoir du citoyen.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>Socrate — Séance 5 : La vertu est-elle un savoir ?</title>
       <description>Dans le Ménon, l'esclave de Socrate démontre un théorème de géométrie : la connaissance est réminiscence.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -62,7 +62,7 @@
     <item>
       <title>Socrate — Séance 6 : La rhétorique au tribunal</title>
       <description>Le Gorgias : Socrate débat avec les sophistes de la justice, du pouvoir et de ce qui rend heureux.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -72,7 +72,7 @@
     <item>
       <title>Socrate — Séance 7 : L'âme et l'immortalité</title>
       <description>Le Phédon : les derniers moments de Socrate et l'argument de l'âme immortelle.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -82,7 +82,7 @@
     <item>
       <title>Socrate — Séance 8 : Apologie : apprendre à mourir</title>
       <description>« Philosopher, c'est apprendre à mourir » : la défense de Socrate devant ses juges.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -92,7 +92,7 @@
     <item>
       <title>Socrate — Séance 9 : Le procès de Socrate</title>
       <description>Pourquoi Athènes a condamné son philosophe : la démocratie, la sophistique et la corruption des jeunes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -102,7 +102,7 @@
     <item>
       <title>Socrate — Séance 10 : Bilan : pourquoi Socrate n'a rien écrit</title>
       <description>La philosophie orale, la mémoire de Platon et l'héritage d'une pensée qui se vit plus qu'elle ne s'écrit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/socrate/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -112,7 +112,7 @@
     <item>
       <title>Platon — Séance 1 : L'Académie et l'écriture de la philosophie</title>
       <description>Pourquoi Platon écrit des dialogues plutôt que des traités, et ce que la forme ajoute à la pensée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -122,7 +122,7 @@
     <item>
       <title>Platon — Séance 2 : La théorie des Idées</title>
       <description>Deux mondes : le monde sensible qui change et le monde intelligible des Idées, seules vraiment réelles.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -132,7 +132,7 @@
     <item>
       <title>Platon — Séance 3 : L'allégorie de la caverne</title>
       <description>La République, livre VII : les prisonniers, les ombres, la remontée vers le soleil — la philosophie comme conversion.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -142,7 +142,7 @@
     <item>
       <title>Platon — Séance 4 : La justice dans la cité et dans l'âme</title>
       <description>Chacun à sa place : les producteurs, les guerriers, les gardiens, et la justice comme harmonie des trois parties de l'âme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -152,7 +152,7 @@
     <item>
       <title>Platon — Séance 5 : Le philosophe-roi</title>
       <description>Qui gouvernera ? Celui qui connaît le Bien, formé par les mathématiques jusqu'à la dialectique.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -162,7 +162,7 @@
     <item>
       <title>Platon — Séance 6 : L'amour et l'ascension vers le Beau</title>
       <description>Le Banquet : le discours de Diotime, de l'amour des beaux corps à l'amour de la Beauté elle-même.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -172,7 +172,7 @@
     <item>
       <title>Platon — Séance 7 : Connaître, c'est se souvenir</title>
       <description>Le Théétète et la réminiscence : savoir, c'est reconnaître ce que l'âme a déjà vu dans le monde des Idées.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -182,7 +182,7 @@
     <item>
       <title>Platon — Séance 8 : Les Lois : une cité sans philosophe-roi</title>
       <description>Dans son dernier dialogue, Platon vieillissant propose des lois écrites pour une cité refondée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -192,7 +192,7 @@
     <item>
       <title>Platon — Séance 9 : Le Timée : le démiurge et le cosmos</title>
       <description>Un dieu artisan façonne le monde selon les Idées : la naissance de la cosmologie philosophique.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -202,7 +202,7 @@
     <item>
       <title>Platon — Séance 10 : Bilan : Platon et la métaphysique occidentale</title>
       <description>Deux mille cinq cents ans de platonisme : de l'Académie à la théologie chrétienne et à la pensée moderne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/platon/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -212,7 +212,7 @@
     <item>
       <title>Aristote — Séance 1 : Le Lycée : observer et classer</title>
       <description>La méthode péripatéticienne : partir du phénomène, remonter aux principes, et tout organiser.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -222,7 +222,7 @@
     <item>
       <title>Aristote — Séance 2 : Les quatre causes</title>
       <description>Pour expliquer une statue, il faut la matière, la forme, la cause efficiente et la cause finale.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -232,7 +232,7 @@
     <item>
       <title>Aristote — Séance 3 : La substance et les catégories</title>
       <description>Qu'est-ce qui existe vraiment ? La substance, et les dix catégories qui disent ce que sont les choses.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -242,7 +242,7 @@
     <item>
       <title>Aristote — Séance 4 : Le mouvement et le premier moteur</title>
       <description>Tout mouvement suppose un moteur : jusqu'au premier moteur immobile, cause finale de l'univers.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -252,7 +252,7 @@
     <item>
       <title>Aristote — Séance 5 : L'âme et la vie</title>
       <description>De anima : l'âme comme forme du corps vivant, de la nutrition à la pensée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -262,7 +262,7 @@
     <item>
       <title>Aristote — Séance 6 : La vertu comme juste milieu</title>
       <description>Éthique à Nicomaque : le courage est entre la lâcheté et la témérité ; la vertu est une habitude.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -272,7 +272,7 @@
     <item>
       <title>Aristote — Séance 7 : L'amitié et le bonheur</title>
       <description>L'eudaimonia, la vie réussie : pourquoi l'amitié est nécessaire au bonheur et quelles en sont les trois espèces.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -282,7 +282,7 @@
     <item>
       <title>Aristote — Séance 8 : La rhétorique et la tragédie</title>
       <description>Convaincre par l'ethos, le pathos et le logos ; la catharsis qui purge la pitié et la crainte.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -292,7 +292,7 @@
     <item>
       <title>Aristote — Séance 9 : L'homme, animal politique</title>
       <description>La Politique : la cité existe par nature et le citoyen participe au gouvernement.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -302,7 +302,7 @@
     <item>
       <title>Aristote — Séance 10 : Bilan : la pensée d'Aristote aujourd'hui</title>
       <description>De la logique à la biologie, pourquoi Aristote reste le maître de la pensée classificatrice.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/aristote/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -312,7 +312,7 @@
     <item>
       <title>Épicure — Séance 1 : Le Jardin et la philosophie comme médecine de l'âme</title>
       <description>La Lettre à Ménécée : la philosophie n'a pas d'âge, elle guérit l'âme comme la médecine guérit le corps.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -322,7 +322,7 @@
     <item>
       <title>Épicure — Séance 2 : La physique : atomes et vide</title>
       <description>Tout est fait d'atomes qui tombent dans le vide ; les mondes sont innombrables et les dieux ne s'occupent pas de nous.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -332,7 +332,7 @@
     <item>
       <title>Épicure — Séance 3 : La mort n'est rien pour nous</title>
       <description>« Quand nous sommes, la mort n'est pas ; quand la mort est, nous ne sommes plus » : la fin de la peur.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -342,7 +342,7 @@
     <item>
       <title>Épicure — Séance 4 : Le plaisir, principe et fin de la vie heureuse</title>
       <description>Le plaisir est le commencement et la fin de la vie heureuse — mais lequel ? Les plaisirs naturels et nécessaires d'abord.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -352,7 +352,7 @@
     <item>
       <title>Épicure — Séance 5 : L'ataraxie et l'aponie</title>
       <description>La tranquillité de l'âme et l'absence de douleur du corps : le vrai bonheur est dans le repos, pas dans l'excès.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -362,7 +362,7 @@
     <item>
       <title>Épicure — Séance 6 : L'amitié et la communauté du Jardin</title>
       <description>« De tous les biens que la sagesse procure, le plus grand est l'amitié » : vivre entre amis, loin de la politique.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -372,7 +372,7 @@
     <item>
       <title>Épicure — Séance 7 : Les dieux existent, mais autrement</title>
       <description>Les dieux sont beaux et immortels, mais ils vivent entre les mondes, indifférents aux hommes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -382,7 +382,7 @@
     <item>
       <title>Épicure — Séance 8 : Contre la superstition et la crainte</title>
       <description>La peur des dieux et de la mort ruine la vie : la physique épicurienne libère de ces terreurs.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -392,7 +392,7 @@
     <item>
       <title>Épicure — Séance 9 : Épicure contre Platon et Aristote</title>
       <description>Contre la téléologie et la politique : vivre caché, cultiver son jardin, chercher le plaisir durable.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -402,7 +402,7 @@
     <item>
       <title>Épicure — Séance 10 : Bilan : le bonheur à portée de main</title>
       <description>L'hédonisme d'Épicure mal compris : pourquoi le bonheur simple est peut-être le plus sage.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/epicure/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -412,7 +412,7 @@
     <item>
       <title>Marc Aurèle — Séance 1 : L'empereur philosophe et les Pensées</title>
       <description>Écrites en grec au camp militaire, les Pensées sont un journal intime destiné à soi-même, pas un traité publié.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -422,7 +422,7 @@
     <item>
       <title>Marc Aurèle — Séance 2 : « Tout ce qui arrive est dans l'ordre du monde »</title>
       <description>Le logos universel qui gouverne tout : accepter l'ordre cosmique plutôt que de se révolter contre le destin.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -432,7 +432,7 @@
     <item>
       <title>Marc Aurèle — Séance 3 : Ce qui dépend de nous et ce qui n'en dépend pas</title>
       <description>La dichotomie du contrôle, reprise par Épictète : notre jugement dépend de nous, le reste non.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -442,7 +442,7 @@
     <item>
       <title>Marc Aurèle — Séance 4 : La mort et l'impermanence</title>
       <description>Tout passe comme la fumée : méditer sur la brièveté de la vie pour ne pas perdre de temps en vaines agitations.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -452,7 +452,7 @@
     <item>
       <title>Marc Aurèle — Séance 5 : La cité du monde</title>
       <description>Cosmopolitisme : nous sommes citoyens de l'univers, nés pour coopérer comme les mains et les pieds d'un même corps.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -462,7 +462,7 @@
     <item>
       <title>Marc Aurèle — Séance 6 : Les passions naissent de nos jugements</title>
       <description>Ce ne sont pas les événements qui nous troublent, mais le jugement que nous portons sur eux.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -472,7 +472,7 @@
     <item>
       <title>Marc Aurèle — Séance 7 : Les autres et la justice</title>
       <description>Même envers ceux qui nous font du tort : la clémence, la franchise, et la nature sociale de l'homme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -482,7 +482,7 @@
     <item>
       <title>Marc Aurèle — Séance 8 : Une discipline du matin au soir</title>
       <description>Rituels stoïciens : la revue du matin, l'examen du soir, et la pratique quotidienne de la vertu.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -492,7 +492,7 @@
     <item>
       <title>Marc Aurèle — Séance 9 : Le stoïcisme romain : Sénèque, Épictète</title>
       <description>Trois voix romaines du stoïcisme : le sénateur, l'empereur et l'esclave affranchi, frères devant la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -502,7 +502,7 @@
     <item>
       <title>Marc Aurèle — Séance 10 : Bilan : méditer avec Marc Aurèle</title>
       <description>Pourquoi les Pensées restent un livre de chevet : la sagesse pratique contre l'anxiété moderne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marc-aurele/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -512,7 +512,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 1 : De la rhétorique à la foi</title>
       <description>Les Confessions : l'autobiographie spirituelle d'Augustin, du péché à la conversion à Milan.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -522,7 +522,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 2 : Le temps et l'éternité</title>
       <description>Qu'est-ce que le temps ? Si personne ne me le demande, je le sais ; si je veux l'expliquer, je ne le sais plus.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -532,7 +532,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 3 : Le mal et la liberté du vouloir</title>
       <description>Le mal n'est pas une substance : c'est la privation du bien, né du libre arbitre de la volonté.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -542,7 +542,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 4 : La mémoire et l'âme</title>
       <description>Les vastes palais de la mémoire : l'intérieur de l'âme où Dieu habite plus intimement que nous-mêmes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -552,7 +552,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 5 : La Cité de Dieu</title>
       <description>Deux cités, deux amours : la cité terrestre et la cité de Dieu, et l'histoire comme leur lutte.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -562,7 +562,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 6 : L'histoire et la Providence</title>
       <description>Contre les païens : l'histoire a un sens, dirigé par la Providence, même à travers le sac de Rome.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -572,7 +572,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 7 : La grâce et la prédestination</title>
       <description>Le débat avec Pélage : le salut vient de la grâce de Dieu, non de nos seuls mérites.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -582,7 +582,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 8 : La foi et la raison</title>
       <description>« Crois pour comprendre » : la foi cherche l'intelligence, et la raison éclairée par la foi.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -592,7 +592,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 9 : Le néoplatonisme de Plotin</title>
       <description>Les Ennéades : l'Un, l'Intellect, l'Âme — d'où Augustin tire sa métaphysique de la lumière intérieure.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -602,7 +602,7 @@
     <item>
       <title>Augustin d'Hippone — Séance 10 : Bilan : Augustin, père de l'Occident chrétien</title>
       <description>L'empreinte d'Augustin sur la théologie, la psychologie et la conception chrétienne du temps.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/augustin/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -612,7 +612,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 1 : La Somme théologique : architecture d'une pensée</title>
       <description>Questions, articles, objections, réponses : la méthode scolastique appliquée à toute la théologie.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -622,7 +622,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 2 : Les cinq preuves de l'existence de Dieu</title>
       <description>Le mouvement, la causalité, la contingence, les degrés de perfection, la finalité : la raison peut démontrer Dieu.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -632,7 +632,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 3 : Dieu, l'être même subsistant</title>
       <description>L'esse subsistens : Dieu n'est pas un étant parmi d'autres, il est l'acte pur d'exister.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -642,7 +642,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 4 : La création et la nature</title>
       <description>Le monde créé ex nihilo, et la nature comme livre où Dieu se lit : science et foi ne se contredisent pas.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -652,7 +652,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 5 : L'homme : âme raisonnable et corps</title>
       <description>L'âme humaine est forme du corps, créée par Dieu, immortelle et jugée après la mort.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -662,7 +662,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 6 : La loi naturelle et la loi révélée</title>
       <description>La loi éternelle, la loi naturelle que la raison découvre, et la loi révélée des Écritures.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -672,7 +672,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 7 : Les vertus, les passions, les péchés capitaux</title>
       <description>Vertus théologales et cardinales, les sept péchés capitaux et la structure de la vie morale.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -682,7 +682,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 8 : Le bonheur et la vision béatifique</title>
       <description>Le bonheur parfait n'est pas de ce monde : il est dans la vision directe de Dieu après la mort.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -692,7 +692,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 9 : Foi et science au XIIIe siècle</title>
       <description>Thomas aristotélicien : la philosophie païenne au service de la théologie, sans renier la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -702,7 +702,7 @@
     <item>
       <title>Thomas d'Aquin — Séance 10 : Bilan : le thomisme aujourd'hui</title>
       <description>De la Somme aux encycliques modernes, pourquoi Thomas d'Aquin reste une référence majeure.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/thomas-d-aquin/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -712,7 +712,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 1 : Florence, les Médicis et Le Prince</title>
       <description>Dédié à Laurent de Médicis, Le Prince naît de l'échec de Machiavel à sauver la république florentine.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -722,7 +722,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 2 : La fortune et la virtu</title>
       <description>La fortune est une femme qu'il faut dompter : la virtu du prince, c'est l'art de s'adapter aux circonstances.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -732,7 +732,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 3 : « Mieux vaut être craint qu'aimé »</title>
       <description>L'analyse froide des moyens de gouverner : pourquoi l'amour est fragile et la crainte plus sûre.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -742,7 +742,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 4 : Les moyens et la fin en politique</title>
       <description>La cruauté bien employée, la nécessité des lois et des armées : la politique a ses propres règles.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -752,7 +752,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 5 : Les Discours sur Tite-Live : la république</title>
       <description>La Rome antique comme modèle : le peuple, plus sage que les princes, et les conflits qui font la liberté.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -762,7 +762,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 6 : La religion comme instrument du pouvoir</title>
       <description>Machiavel admire la religion des Romains comme ciment de la cité, non comme vérité révélée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -772,7 +772,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 7 : L'art de la guerre</title>
       <description>Les mercenaires sont inutiles : un prince doit avoir ses propres armes et connaître la guerre.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -782,7 +782,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 8 : Le machiavélisme : lecture et caricature</title>
       <description>Comment on a lu Machiavel : de la damnation morale à la science politique moderne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -792,7 +792,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 9 : La naissance de la politique moderne</title>
       <description>Machiavel fonde la politique sur les faits réels de l'homme, non sur la morale ou la religion.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -802,7 +802,7 @@
     <item>
       <title>Nicolas Machiavel — Séance 10 : Bilan : relire Machiavel sans caricature</title>
       <description>Le citoyen lucide plutôt que le tyran cynique : ce que Le Prince dit vraiment de la liberté.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/machiavel/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -812,7 +812,7 @@
     <item>
       <title>René Descartes — Séance 1 : Le doute méthodique et le Discours de la méthode</title>
       <description>Pour trouver la vérité, douter de tout ce qui peut être douteux, jusqu'aux évidences des sens.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -822,7 +822,7 @@
     <item>
       <title>René Descartes — Séance 2 : Le cogito : « Je pense, donc je suis »</title>
       <description>La première certitude : tant que je doute, je pense, donc il y a bien un moi qui pense.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -832,7 +832,7 @@
     <item>
       <title>René Descartes — Séance 3 : Dieu garant de la vérité</title>
       <description>L'idée de Dieu en moi prouve son existence, et sa véracité garantit mes idées claires et distinctes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -842,7 +842,7 @@
     <item>
       <title>René Descartes — Séance 4 : L'âme et le corps</title>
       <description>Les deux substances : la pensée et l'étendue, et leur union dans l'homme aux Passions de l'âme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -852,7 +852,7 @@
     <item>
       <title>René Descartes — Séance 5 : La physique mécaniste</title>
       <description>Le monde est une machine : mêmes lois, mêmes mouvements, de la chute des corps aux animaux.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -862,7 +862,7 @@
     <item>
       <title>René Descartes — Séance 6 : Les Méditations métaphysiques</title>
       <description>Six méditations pour fonder la connaissance : de l'existence de Dieu à la distinction réelle de l'âme et du corps.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -872,7 +872,7 @@
     <item>
       <title>René Descartes — Séance 7 : La morale provisoire</title>
       <description>En attendant la morale définitive, suivre les lois, être ferme dans ses résolutions, changer ses désirs plutôt que le monde.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -882,7 +882,7 @@
     <item>
       <title>René Descartes — Séance 8 : Les Regulae : la méthode universelle</title>
       <description>Quatre règles pour bien conduire sa raison : évidence, analyse, synthèse, dénombrement.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -892,7 +892,7 @@
     <item>
       <title>René Descartes — Séance 9 : Descartes et la naissance de la science moderne</title>
       <description>De Galilée à Newton : la mathématisation de la nature et le programme d'une science universelle.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -902,7 +902,7 @@
     <item>
       <title>René Descartes — Séance 10 : Bilan : le sujet cartésien</title>
       <description>Le moi pensant comme fondement : ce que la modernité doit au cogito et ses critiques.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/descartes/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -912,7 +912,7 @@
     <item>
       <title>Baruch Spinoza — Séance 1 : La vie de Spinoza et l'Éthique</title>
       <description>Excommunié de la communauté juive, Spinoza vit de la taille de lentilles et écrit son œuvre majeure.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -922,7 +922,7 @@
     <item>
       <title>Baruch Spinoza — Séance 2 : Dieu ou la Nature (Deus sive Natura)</title>
       <description>Une seule substance, infinie, qui est à la fois Dieu et la Nature : le panthéisme de Spinoza.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -932,7 +932,7 @@
     <item>
       <title>Baruch Spinoza — Séance 3 : Les modes de la substance unique</title>
       <description>Les choses finies ne sont pas des substances mais des modes, des affections de Dieu-Nature.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -942,7 +942,7 @@
     <item>
       <title>Baruch Spinoza — Séance 4 : La nécessité et l'absence de libre arbitre</title>
       <description>Tout découle nécessairement de la nature de Dieu : l'homme qui croit choisir ne fait que suivre la nécessité.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -952,7 +952,7 @@
     <item>
       <title>Baruch Spinoza — Séance 5 : Les affects et les passions</title>
       <description>La partie IV de l'Éthique : comment les passions naissent de l'ignorance et comment les vaincre.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -962,7 +962,7 @@
     <item>
       <title>Baruch Spinoza — Séance 6 : La béatitude et l'amour intellectuel de Dieu</title>
       <description>La partie V : connaître Dieu par intuition, et l'amour intellectuel de Dieu comme salut de l'homme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -972,7 +972,7 @@
     <item>
       <title>Baruch Spinoza — Séance 7 : Le Traité théologico-politique</title>
       <description>La liberté de penser et d'exprimer ses opinions est le fondement de l'État démocratique.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -982,7 +982,7 @@
     <item>
       <title>Baruch Spinoza — Séance 8 : La politique : démocratie, monarchie, aristocratie</title>
       <description>Le Traité politique : quel est le meilleur régime, et pourquoi la monarchie bien ordonnée peut suffire.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -992,7 +992,7 @@
     <item>
       <title>Baruch Spinoza — Séance 9 : Spinoza contre Descartes</title>
       <description>Contre les deux substances : une seule substance évite le problème de l'interaction âme-corps.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1002,7 +1002,7 @@
     <item>
       <title>Baruch Spinoza — Séance 10 : Bilan : la liberté par la connaissance</title>
       <description>Être libre, c'est comprendre la nécessité : la sagesse de Spinoza face aux passions humaines.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/spinoza/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1012,7 +1012,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 1 : Le meilleur des mondes possibles</title>
       <description>La Théodicée : Dieu a choisi, parmi tous les mondes possibles, celui qui contient le moins de mal.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1022,7 +1022,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 2 : Les monades, miroirs du monde</title>
       <description>Chaque monade est une substance simple qui exprime tout l'univers d'un certain point de vue.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1032,7 +1032,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 3 : Le problème du mal</title>
       <description>Si Dieu est bon et tout-puissant, pourquoi le mal existe-t-il ? La réponse par l'harmonie préétablie.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1042,7 +1042,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 4 : La caractéristique universelle et le calcul</title>
       <description>Un langage symbolique universel où raisonner devient calculer : le rêve d'une logique formelle.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1052,7 +1052,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 5 : La Monadologie</title>
       <description>Quatre-vingt-dix propositions sur les monades, leur création par Dieu et leur préharmonie.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1062,7 +1062,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 6 : Espace, temps et relativité</title>
       <description>L'espace et le temps ne sont pas des substances mais des relations entre les monades.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1072,7 +1072,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 7 : Leibniz contre Newton</title>
       <description>Le calcul infinitésimal, la querelle de priorité, et deux conceptions de l'espace absolu ou relatif.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1082,7 +1082,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 8 : Le droit naturel et la justice</title>
       <description>La justice comme sagesse de Dieu : aimer ce qui est sage et juger ce qui est juste.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1092,7 +1092,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 9 : Leibniz savant</title>
       <description>Mathématiques, physique, géologie, droit : l'encyclopédiste qui fonde les académies des sciences.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1102,7 +1102,7 @@
     <item>
       <title>Gottfried Wilhelm Leibniz — Séance 10 : Bilan : l'optimisme raisonné de Leibniz</title>
       <description>Pourquoi Voltaire s'est moqué de Pangloss, et ce que le « meilleur des mondes » veut dire vraiment.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/leibniz/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1112,7 +1112,7 @@
     <item>
       <title>John Locke — Séance 1 : L'Essai sur l'entendement humain</title>
       <description>Contre les idées innées : l'esprit est une table rase où l'expérience écrit toutes nos idées.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1122,7 +1122,7 @@
     <item>
       <title>John Locke — Séance 2 : Les idées simples et les idées complexes</title>
       <description>Les impressions des sens et les opérations de l'esprit : combinaison, comparaison, abstraction.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1132,7 +1132,7 @@
     <item>
       <title>John Locke — Séance 3 : Les qualités premières et secondes</title>
       <description>La solidité et l'étendue appartiennent aux corps ; les couleurs et les sons n'existent que dans l'esprit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1142,7 +1142,7 @@
     <item>
       <title>John Locke — Séance 4 : Le gouvernement civil et le droit naturel</title>
       <description>À l'état de nature, les hommes sont libres et égaux ; le gouvernement existe pour protéger la vie, la liberté et les biens.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1152,7 +1152,7 @@
     <item>
       <title>John Locke — Séance 5 : La propriété et le travail</title>
       <description>Chacun a droit à sa personne et au produit de son travail : la terre appartient à celui qui la cultive.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1162,7 +1162,7 @@
     <item>
       <title>John Locke — Séance 6 : La tolérance religieuse</title>
       <description>Lettre sur la tolérance : l'État ne doit pas s'occuper du salut des âmes, la foi ne se commande pas.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1172,7 +1172,7 @@
     <item>
       <title>John Locke — Séance 7 : La séparation des pouvoirs</title>
       <description>Législatif, exécutif, fédératif : le pouvoir suprême appartient au peuple, délégué au Parlement.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1182,7 +1182,7 @@
     <item>
       <title>John Locke — Séance 8 : L'éducation</title>
       <description>Quelques pensées sur l'éducation : former le gentleman par l'habitude, la discipline douce et l'exemple.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1192,7 +1192,7 @@
     <item>
       <title>John Locke — Séance 9 : Locke et les Lumières</title>
       <description>De la Glorieuse Révolution de 1688 aux révolutions américaine et française : l'héritage politique de Locke.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1202,7 +1202,7 @@
     <item>
       <title>John Locke — Séance 10 : Bilan : l'empirisme et la liberté</title>
       <description>La connaissance fondée sur l'expérience, le gouvernement fondé sur le consentement : la modernité lockienne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/locke/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1212,7 +1212,7 @@
     <item>
       <title>David Hume — Séance 1 : Le Traité de la nature humaine</title>
       <description>Une science de l'homme fondée sur l'observation, comme la physique de Newton appliquée à l'esprit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1222,7 +1222,7 @@
     <item>
       <title>David Hume — Séance 2 : Impressions et idées</title>
       <description>Toutes nos idées viennent des impressions des sens ou des passions : la copie affaiblie de la perception.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1232,7 +1232,7 @@
     <item>
       <title>David Hume — Séance 3 : La causalité n'est qu'habitude</title>
       <description>Nous ne voyons jamais la nécessité entre les causes et les effets : seulement une habitude de l'esprit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1242,7 +1242,7 @@
     <item>
       <title>David Hume — Séance 4 : Le moi, faisceau de perceptions</title>
       <description>Quand je cherche mon moi, je ne trouve que des perceptions : l'identité personnelle n'est qu'une fiction commode.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1252,7 +1252,7 @@
     <item>
       <title>David Hume — Séance 5 : Le scepticisme et les limites de la raison</title>
       <description>La raison est l'esclave des passions : elle ne peut démontrer ni la causalité, ni Dieu, ni le moi.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1262,7 +1262,7 @@
     <item>
       <title>David Hume — Séance 6 : La morale fondée sur le sentiment</title>
       <description>La vertu nous fait plaisir, le vice nous déplaît : la morale naît de la sympathie, non de la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1272,7 +1272,7 @@
     <item>
       <title>David Hume — Séance 7 : La religion naturelle et les Dialogues</title>
       <description>La religion vient de la crainte, pas de la raison : Hume discute les arguments du dessein et de la providence.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1282,7 +1282,7 @@
     <item>
       <title>David Hume — Séance 8 : L'histoire et la politique</title>
       <description>L'Histoire d'Angleterre : les partis, la liberté de la presse, et les leçons du passé pour le présent.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1292,7 +1292,7 @@
     <item>
       <title>David Hume — Séance 9 : Hume et Kant : « il m'a réveillé de mon sommeil dogmatique »</title>
       <description>Comment le scepticisme de Hume a forcé Kant à fonder autrement la connaissance.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1302,7 +1302,7 @@
     <item>
       <title>David Hume — Séance 10 : Bilan : le scepticisme modéré de Hume</title>
       <description>Ni dogmatisme ni nihilisme : vivre, philosopher et agir malgré les limites de la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hume/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1312,7 +1312,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 1 : Les Confessions et le « je » moderne</title>
       <description>Rousseau invente l'autobiographie introspective : se raconter pour se comprendre, sans fard.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1322,7 +1322,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 2 : Discours sur les sciences et les arts</title>
       <description>Le progrès des arts et des sciences corrompt les mœurs : la réponse qui fait gagner le concours de Dijon.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1332,7 +1332,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 3 : L'origine de l'inégalité parmi les hommes</title>
       <description>L'homme naît bon, c'est la société qui le corrompt : la propriété foncière fonde l'inégalité.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1342,7 +1342,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 4 : L'état de nature et la perfectibilité</title>
       <description>L'homme de la nature est solitaire et heureux ; la perfectibilité le pousse à se perfectionner... et à se perdre.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1352,7 +1352,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 5 : Le Contrat social</title>
       <description>« L'homme est né libre, et partout il est dans les fers » : fonder la légitimité politique sur le contrat.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1362,7 +1362,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 6 : La volonté générale et la souveraineté</title>
       <description>Chacun s'unit à tous mais n'obéit qu'à lui-même : la souveraineté du peuple, inaliénable et indivisible.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1372,7 +1372,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 7 : Émile ou De l'éducation</title>
       <description>L'éducation naturelle : laisser l'enfant grandir selon la nature, apprendre par l'expérience.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1382,7 +1382,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 8 : La profession de foi du vicaire savoyard</title>
       <description>La religion naturelle de Rousseau : Dieu, la conscience morale, et l'immortalité de l'âme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1392,7 +1392,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 9 : Rousseau et la Révolution française</title>
       <description>Comment le Contrat social a inspiré 1789, et les débats sur la volonté générale et la Terreur.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1402,7 +1402,7 @@
     <item>
       <title>Jean-Jacques Rousseau — Séance 10 : Bilan : l'homme naturel et le citoyen</title>
       <description>Entre l'individu et la communauté : la tension fondatrice de la pensée politique de Rousseau.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/rousseau/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1412,7 +1412,7 @@
     <item>
       <title>Emmanuel Kant — Séance 1 : La vie de Kant et le projet des trois Critiques</title>
       <description>Le professeur de Königsberg, sa vie réglée comme une horloge, et l'entreprise de juger les limites de la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1422,7 +1422,7 @@
     <item>
       <title>Emmanuel Kant — Séance 2 : La révolution copernicienne</title>
       <description>Ce n'est pas la connaissance qui se règle sur l'objet, mais l'objet qui se règle sur la connaissance.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1432,7 +1432,7 @@
     <item>
       <title>Emmanuel Kant — Séance 3 : La sensibilité : l'espace et le temps</title>
       <description>L'Esthétique transcendantale : l'espace et le temps sont les formes a priori de notre sensibilité.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1442,7 +1442,7 @@
     <item>
       <title>Emmanuel Kant — Séance 4 : L'entendement et les douze catégories</title>
       <description>L'Analytique transcendantale : la pensée applique les catégories à l'intuition pour faire des jugements.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1452,7 +1452,7 @@
     <item>
       <title>Emmanuel Kant — Séance 5 : Les antinomies et l'Idéal de la raison</title>
       <description>La Dialectique transcendantale : quand la raison dépasse l'expérience, elle se contredit — et pourtant elle cherche l'inconditionné.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1462,7 +1462,7 @@
     <item>
       <title>Emmanuel Kant — Séance 6 : Le noumène et la liberté</title>
       <description>Fondements de la métaphysique des mœurs : la liberté comme fait de la raison, et le monde nouménal.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1472,7 +1472,7 @@
     <item>
       <title>Emmanuel Kant — Séance 7 : L'impératif catégorique</title>
       <description>Agis selon une maxime que tu peux vouloir ériger en loi universelle : la loi morale en nous.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1482,7 +1482,7 @@
     <item>
       <title>Emmanuel Kant — Séance 8 : Le beau et le sublime</title>
       <description>La Critique de la faculté de juger : le jugement de goût est désintéressé ; le sublime nous dépasse.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1492,7 +1492,7 @@
     <item>
       <title>Emmanuel Kant — Séance 9 : La religion et la paix perpétuelle</title>
       <description>La religion dans les limites de la simple raison, et le projet d'une paix entre les États.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1502,7 +1502,7 @@
     <item>
       <title>Emmanuel Kant — Séance 10 : Bilan : « Aie le courage de te servir de ton propre entendement »</title>
       <description>Les Lumières selon Kant : penser par soi-même, dans les limites de la raison — et l'héritage immense de la pensée kantienne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kant/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1512,7 +1512,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 1 : La Phénoménologie de l'Esprit : le chemin de la conscience</title>
       <description>De la certitude sensible à la raison, la conscience fait l'expérience de toutes les figures de l'esprit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1522,7 +1522,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 2 : La dialectique maître-esclave</title>
       <description>La lutte à mort pour la reconnaissance : le maître et l'esclave, et le travail qui forme la conscience.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1532,7 +1532,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 3 : Thèse, antithèse, synthèse</title>
       <description>La dialectique hégélienne : chaque détermination engendre sa négation, et l'Aufhebung les dépasse.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1542,7 +1542,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 4 : « Ce qui est rationnel est réel, ce qui est réel est rationnel »</title>
       <description>La Préface de la Phénoménologie : comprendre le monde tel qu'il est, comme réalisation de la raison.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1552,7 +1552,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 5 : L'Esprit objectif, subjectif, absolu</title>
       <description>L'Encyclopédie : le droit, la morale, l'histoire, la religion et l'art comme objectivations de l'Esprit.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1562,7 +1562,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 6 : La philosophie du droit</title>
       <description>La famille, la société civile et l'État : la liberté qui se concrétise dans les institutions.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1572,7 +1572,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 7 : L'histoire comme progrès de la liberté</title>
       <description>De l'Orient à l'Occident : l'Esprit du monde qui réalise la liberté à travers les peuples et les époques.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1582,7 +1582,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 8 : L'art, la religion, la philosophie</title>
       <description>Les trois formes de l'Esprit absolu : de l'art symbolique à la religion révélée jusqu'à la philosophie.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1592,7 +1592,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 9 : Hegel contre Kant</title>
       <description>Kant a laissé le noumène inconnaissable : Hegel veut penser l'absolu, et non s'arrêter au phénomène.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1602,7 +1602,7 @@
     <item>
       <title>Georg Wilhelm Friedrich Hegel — Séance 10 : Bilan : la dialectique aujourd'hui</title>
       <description>De Marx à la pensée contemporaine : ce qui reste vivant dans la méthode hégélienne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/hegel/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1612,7 +1612,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 1 : L'individu contre la foule</title>
       <description>« La vérité est subjectivité » : la foule est le non-vrai, seul l'individu existe vraiment devant Dieu.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1622,7 +1622,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 2 : Crainte et Tremblement : Abraham et la foi</title>
       <description>La suspension téléologique de l'éthique : la foi d'Abraham qui sacrifie Isaac, au-delà du devoir moral.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1632,7 +1632,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 3 : Le Concept de l'angoisse</title>
       <description>La liberté et le péché : l'angoisse est le vertige de la liberté devant le possible.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1642,7 +1642,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 4 : La Maladie à la mort : le désespoir</title>
       <description>Ne pas vouloir être soi-même, ou vouloir être soi-même sans Dieu : les formes du désespoir.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1652,7 +1652,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 5 : Les miettes philosophiques et le paradoxe</title>
       <description>Le christianisme est un paradoxe : le Dieu éternel entre dans le temps, l'infini dans le fini.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1662,7 +1662,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 6 : Ou bien... ou bien : les trois stades de l'existence</title>
       <description>La vie esthétique du séducteur, la vie éthique du devoir, la vie religieuse de la foi : choisir son stade.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1672,7 +1672,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 7 : Le Journal du séducteur</title>
       <description>Don Juan et la séduction comme principe : la jouissance sans engagement, et son échec.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1682,7 +1682,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 8 : Kierkegaard contre Hegel</title>
       <description>Contre le système : l'existence individuelle, le choix et le moment ne se laissent pas absorber par la totalité.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1692,7 +1692,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 9 : La chrétienté et le christianisme</title>
       <description>Attaque contre l'Église établie : être chrétien, c'est suivre le Christ, pas la masse des chrétiens de nom.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1702,7 +1702,7 @@
     <item>
       <title>Søren Kierkegaard — Séance 10 : Bilan : exister, c'est choisir</title>
       <description>La subjectivité comme vérité : pourquoi Kierkegaard fonde la pensée de l'existence individuelle.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/kierkegaard/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1712,7 +1712,7 @@
     <item>
       <title>Karl Marx — Séance 1 : Hegel de gauche et la critique de la philosophie du droit</title>
       <description>La religion, opium du peuple : critiquer le ciel pour transformer la terre, les Manuscrits de 1844.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1722,7 +1722,7 @@
     <item>
       <title>Karl Marx — Séance 2 : L'aliénation du travail</title>
       <description>Le travailleur est étranger à son travail, à son produit, à son essence d'homme et aux autres hommes.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1732,7 +1732,7 @@
     <item>
       <title>Karl Marx — Séance 3 : La conception matérialiste de l'histoire</title>
       <description>Ce n'est pas la conscience qui détermine l'être social, mais l'être social qui détermine la conscience.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1742,7 +1742,7 @@
     <item>
       <title>Karl Marx — Séance 4 : Le Capital : la marchandise et la valeur</title>
       <description>La marchandise, valeur d'usage et valeur d'échange, et le mystère de la marchandise fétichisée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1752,7 +1752,7 @@
     <item>
       <title>Karl Marx — Séance 5 : La plus-value et l'exploitation</title>
       <description>Le salaire cache le travail non payé : la plus-value, source du profit capitaliste.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1762,7 +1762,7 @@
     <item>
       <title>Karl Marx — Séance 6 : Les classes et la lutte des classes</title>
       <description>« L'histoire de toute société jusqu'ici est l'histoire de luttes de classes » : bourgeois contre prolétaires.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1772,7 +1772,7 @@
     <item>
       <title>Karl Marx — Séance 7 : L'État, la religion, l'idéologie</title>
       <description>La superstructure idéologique : l'État comme comité de gestion des affaires communes de la bourgeoisie.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1782,7 +1782,7 @@
     <item>
       <title>Karl Marx — Séance 8 : Le communisme : une société sans classes</title>
       <description>De chacun selon ses capacités, à chacun selon ses besoins : l'abolition de la propriété privée des moyens de production.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1792,7 +1792,7 @@
     <item>
       <title>Karl Marx — Séance 9 : Marx et le capitalisme contemporain</title>
       <description>La mondialisation, la financiarisation, le numérique : relire Le Capital au XXIe siècle.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1802,7 +1802,7 @@
     <item>
       <title>Karl Marx — Séance 10 : Bilan : pourquoi lire Marx aujourd'hui</title>
       <description>La critique du capital reste incontournable pour comprendre le monde du travail et de l'argent.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/marx/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1812,7 +1812,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 1 : La Naissance de la tragédie : Apollon et Dionysos</title>
       <description>L'art grec naît de deux principes : le rêve apollinien et l'ivresse dionysiaque.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1822,7 +1822,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 2 : La mort de Dieu et le nihilisme</title>
       <description>« Dieu est mort, et nous l'avons tué » : l'événement le plus grave de l'histoire, et le nihilisme qui menace.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1832,7 +1832,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 3 : La généalogie de la morale</title>
       <description>Les maîtres et les esclaves : le ressentiment des faibles invente la morale de la culpabilité.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1842,7 +1842,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 4 : Par-delà bien et mal</title>
       <description>Une morale pour ceux qui sont au-delà du bien et du mal : la critique de la morale altruiste.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1852,7 +1852,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 5 : Ainsi parlait Zarathoustra : le surhumain</title>
       <description>L'homme est un pont vers le surhumain : celui qui crée de nouvelles valeurs après la mort de Dieu.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1862,7 +1862,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 6 : La volonté de puissance</title>
       <description>Ce n'est pas la volonté de vivre, mais la volonté de puissance qui anime tout vivant.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1872,7 +1872,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 7 : L'éternel retour</title>
       <description>Et si tu devais revivre éternellement cette vie, minute par minute ? Le test suprême de l'amor fati.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1882,7 +1882,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 8 : Nietzsche contre la morale chrétienne</title>
       <description>La psychologie du prêtre et la morale des esclaves : pourquoi Nietzsche attaque le christianisme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1892,7 +1892,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 9 : Nietzsche lu par ses sœurs : le nazisme ?</title>
       <description>Élisabeth Förster-Nietzsche falsifie l'œuvre : distinguer Nietzsche de ceux qui l'ont récupéré.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1902,7 +1902,7 @@
     <item>
       <title>Friedrich Nietzsche — Séance 10 : Bilan : philosopher à coups de marteau</title>
       <description>La destruction des idoles et la création de valeurs : l'athlète de la pensée que fut Nietzsche.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/nietzsche/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1912,7 +1912,7 @@
     <item>
       <title>Henri Bergson — Séance 1 : L'Essai sur les données immédiates de la conscience</title>
       <description>La durée véritable est qualitative, vécu intérieur : elle ne se mesure pas, elle se sent.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/01.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/01.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1922,7 +1922,7 @@
     <item>
       <title>Henri Bergson — Séance 2 : Le temps de la science et le temps vécu</title>
       <description>L'espace homogène du physicien contre la durée concrète de la conscience : deux temps irréductibles.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/02.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/02.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1932,7 +1932,7 @@
     <item>
       <title>Henri Bergson — Séance 3 : Matière et mémoire</title>
       <description>Le souvenir comme image du passé qui survit, et la mémoire-habitude contre la mémoire-souvenir.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/03.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/03.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1942,7 +1942,7 @@
     <item>
       <title>Henri Bergson — Séance 4 : L'Évolution créatrice et l'élan vital</title>
       <description>La vie qui pousse à travers la matière : l'élan vital explique l'évolution mieux que le mécanisme ou le finalisme.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/04.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/04.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1952,7 +1952,7 @@
     <item>
       <title>Henri Bergson — Séance 5 : La pensée et le mouvant</title>
       <description>L'intelligence découpe le réel en objets solides ; l'intuition saisit le mouvement et la durée.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/05.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/05.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1962,7 +1962,7 @@
     <item>
       <title>Henri Bergson — Séance 6 : Le rire et le comique</title>
       <description>Le rire naît quand la société traite la personne comme une chose : le mécanique plaqué sur le vivant.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/06.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/06.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1972,7 +1972,7 @@
     <item>
       <title>Henri Bergson — Séance 7 : Les Deux Sources de la morale et de la religion</title>
       <description>La morale close de la société et la morale ouverte de l'amour mystique ; la religion statique et la religion dynamique.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/07.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/07.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1982,7 +1982,7 @@
     <item>
       <title>Henri Bergson — Séance 8 : Bergson contre le matérialisme et le mécanisme</title>
       <description>La matière n'explique pas la vie : la conscience déborde toujours le cerveau qui la conditionne.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/08.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/08.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -1992,7 +1992,7 @@
     <item>
       <title>Henri Bergson — Séance 9 : Bergson et la psychologie de son temps</title>
       <description>Contre l'associationnisme anglais : la mémoire n'est pas une somme d'images, c'est un tout vivant.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/09.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/09.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>
@@ -2002,7 +2002,7 @@
     <item>
       <title>Henri Bergson — Séance 10 : Bilan : la vie qui dure</title>
       <description>La durée, la création, la liberté : pourquoi Bergson reste le philosophe de la vie et du mouvement.</description>
-      <pubDate>Sat, 21 Nov 2026 10:23:55 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 10:49:42 GMT</pubDate>
       <guid isPermaLink="true">https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/10.mp3</guid>
       <enclosure url="https://clementhebertdebeauvoir-coder.github.io/podcasts/audio/bergson/10.mp3" length="24000000" type="audio/mpeg"/>
       <itunes:duration>1500</itunes:duration>

@@ -15,6 +15,11 @@
     return '<span class="badge">à écouter</span>';
   }
 
+  function audioBadgeFor(a, s) {
+    if (P.hasAudio(a.id, s.n)) return '<span class="badge dispo">🎧 audio disponible</span>';
+    return '<span class="badge audio">audio à générer</span>';
+  }
+
   function ligneSeance(a, s) {
     var li = document.createElement("li");
     li.className = "seance";
@@ -29,6 +34,7 @@
       '      <button class="btn-play" data-play="' + s.n + '">▶ Écouter</button>' +
       '      <span class="duree">25 min</span>' +
       "      <span class=\"badge-slot\">" + badgeFor(a, s) + "</span>" +
+      '      <span class="badge-slot-audio">' + audioBadgeFor(a, s) + "</span>" +
       "    </div>" +
       '    <details class="fiche-details">' +
       '      <summary>Lire la fiche de la séance</summary>' +
@@ -62,16 +68,23 @@
       var li = document.getElementById("seance-" + s.n);
       if (!li) return;
       li.querySelector(".badge-slot").innerHTML = badgeFor(a, s);
+      li.querySelector(".badge-slot-audio").innerHTML = audioBadgeFor(a, s);
       var playing = P.state.auteur && P.state.seance &&
         P.state.auteur.id === a.id && P.state.seance.n === s.n &&
         P.state.audio && !P.state.audio.paused;
       li.classList.toggle("en-cours", !!playing);
       var btn = li.querySelector("[data-play]");
-      btn.textContent = playing ? "❚❚ En lecture" : (P.getProgress(a.id, s.n).pos > 5 && !P.getProgress(a.id, s.n).done ? "▶ Reprendre" : "▶ Écouter");
+      var prog = P.getProgress(a.id, s.n);
+      if (!P.hasAudio(a.id, s.n)) {
+        btn.textContent = "⏳ Audio à générer";
+      } else {
+        btn.textContent = playing ? "❚❚ En lecture" : (prog.pos > 5 && !prog.done ? "▶ Reprendre" : "▶ Écouter");
+      }
     });
   }
 
-  P.loadData().then(function (data) {
+  Promise.all([P.loadData(), P.loadManifest()]).then(function (res) {
+    var data = res[0];
     var a = P.findAuteur(getAuteurId());
     if (!a) {
       document.querySelector("main").innerHTML =
@@ -88,6 +101,15 @@
       '<p class="dates">' + P.esc(a.dates) + " · " + P.esc(a.epoque) + "</p>" +
       '<p class="accroche">' + P.esc(a.accroche) + "</p>" +
       '<p class="hero-meta">' + done + "/10 séances écoutées · 10 × 25 min</p>";
+
+    var manquants = a.seances.filter(function (s) { return !P.hasAudio(a.id, s.n); }).length;
+    if (manquants > 0) {
+      head.insertAdjacentHTML("beforeend",
+        '<p class="banner-info">⚠ ' + manquants + ' séance(s) sur 10 sans épisode audio pour le moment. ' +
+        "Pour les générer : <code>export MISTRAL_API_KEY=…</code> puis " +
+        "<code>python3 tools/generate_audio.py --auteur " + P.esc(a.id) + "</code> " +
+        "(voir <code>podcasts/README.md</code>).</p>");
+    }
 
     var ul = document.getElementById("liste-seances");
     a.seances.forEach(function (s) { ul.appendChild(ligneSeance(a, s)); });
