@@ -1,0 +1,3 @@
+# Les épisodes audio (MP3 générés par Voxtral) vont ici :
+# audio/<id-auteur>/<numero-02d>.mp3 — ex. audio/kant/01.mp3
+# Voir podcasts/README.md et podcasts/tools/generate_audio.py
