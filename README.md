@@ -8,6 +8,7 @@ https://clementhebertdebeauvoir-coder.github.io
 - index.html : page d'accueil, liste des articles
 - style.css : feuille de style du site
 - posts/ : un fichier HTML par article
+- podcasts/ : site de podcasts de philosophie (20 auteurs × 10 séances de 25 min, lecteur intégré, fiches lues par Voxtral) — voir podcasts/README.md
 
 ## Publier un article
 

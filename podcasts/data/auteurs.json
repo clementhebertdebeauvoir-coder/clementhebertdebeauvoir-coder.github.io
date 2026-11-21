@@ -1,0 +1,391 @@
+{
+  "site": {
+    "titre": "Philosopher en podcasts",
+    "sous_titre": "Les vingt plus grands auteurs de la philosophie, en dix séances de 25 minutes chacun. Un parcours académique à écouter.",
+    "duree_seance_sec": 1500,
+    "base_audio": "audio/",
+    "base_fiches": "fiches/"
+  },
+  "auteurs": [
+    {
+      "id": "socrate",
+      "nom": "Socrate",
+      "dates": "v. 469 – 399 av. J.-C.",
+      "epoque": "Grèce antique, Athènes",
+      "accroche": "Le philosophe qui n'écrivait rien et ne savait qu'une chose : qu'il ne savait rien. Dix séances pour entrer dans les dialogues de Platon.",
+      "seances": [
+        {"n": 1, "titre": "Qui était Socrate ?", "resume": "L'Apologie de Platon : le philosophe qui questionne au lieu d'enseigner, et le moucheron d'Athènes.", "duree_sec": 1500},
+        {"n": 2, "titre": "« Connais-toi toi-même »", "resume": "La maïeutique socratique : faire accoucher les esprits de leurs propres idées, à partir de l'aveu d'ignorance.", "duree_sec": 1500},
+        {"n": 3, "titre": "Le dialogue comme méthode", "resume": "Euthyphron : qu'est-ce que la piété ? Socrate démonte les fausses évidences par le seul usage de la raison.", "duree_sec": 1500},
+        {"n": 4, "titre": "Criton : obéir ou fuir ?", "resume": "Condamné à mort, Socrate refuse de s'évader : les lois d'Athènes et le devoir du citoyen.", "duree_sec": 1500},
+        {"n": 5, "titre": "La vertu est-elle un savoir ?", "resume": "Dans le Ménon, l'esclave de Socrate démontre un théorème de géométrie : la connaissance est réminiscence.", "duree_sec": 1500},
+        {"n": 6, "titre": "La rhétorique au tribunal", "resume": "Le Gorgias : Socrate débat avec les sophistes de la justice, du pouvoir et de ce qui rend heureux.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'âme et l'immortalité", "resume": "Le Phédon : les derniers moments de Socrate et l'argument de l'âme immortelle.", "duree_sec": 1500},
+        {"n": 8, "titre": "Apologie : apprendre à mourir", "resume": "« Philosopher, c'est apprendre à mourir » : la défense de Socrate devant ses juges.", "duree_sec": 1500},
+        {"n": 9, "titre": "Le procès de Socrate", "resume": "Pourquoi Athènes a condamné son philosophe : la démocratie, la sophistique et la corruption des jeunes.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : pourquoi Socrate n'a rien écrit", "resume": "La philosophie orale, la mémoire de Platon et l'héritage d'une pensée qui se vit plus qu'elle ne s'écrit.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "platon",
+      "nom": "Platon",
+      "dates": "428/427 – 348/347 av. J.-C.",
+      "epoque": "Grèce antique, Athènes",
+      "accroche": "Fondateur de l'Académie, auteur des dialogues : de la théorie des Idées à l'allégorie de la caverne.",
+      "seances": [
+        {"n": 1, "titre": "L'Académie et l'écriture de la philosophie", "resume": "Pourquoi Platon écrit des dialogues plutôt que des traités, et ce que la forme ajoute à la pensée.", "duree_sec": 1500},
+        {"n": 2, "titre": "La théorie des Idées", "resume": "Deux mondes : le monde sensible qui change et le monde intelligible des Idées, seules vraiment réelles.", "duree_sec": 1500},
+        {"n": 3, "titre": "L'allégorie de la caverne", "resume": "La République, livre VII : les prisonniers, les ombres, la remontée vers le soleil — la philosophie comme conversion.", "duree_sec": 1500},
+        {"n": 4, "titre": "La justice dans la cité et dans l'âme", "resume": "Chacun à sa place : les producteurs, les guerriers, les gardiens, et la justice comme harmonie des trois parties de l'âme.", "duree_sec": 1500},
+        {"n": 5, "titre": "Le philosophe-roi", "resume": "Qui gouvernera ? Celui qui connaît le Bien, formé par les mathématiques jusqu'à la dialectique.", "duree_sec": 1500},
+        {"n": 6, "titre": "L'amour et l'ascension vers le Beau", "resume": "Le Banquet : le discours de Diotime, de l'amour des beaux corps à l'amour de la Beauté elle-même.", "duree_sec": 1500},
+        {"n": 7, "titre": "Connaître, c'est se souvenir", "resume": "Le Théétète et la réminiscence : savoir, c'est reconnaître ce que l'âme a déjà vu dans le monde des Idées.", "duree_sec": 1500},
+        {"n": 8, "titre": "Les Lois : une cité sans philosophe-roi", "resume": "Dans son dernier dialogue, Platon vieillissant propose des lois écrites pour une cité refondée.", "duree_sec": 1500},
+        {"n": 9, "titre": "Le Timée : le démiurge et le cosmos", "resume": "Un dieu artisan façonne le monde selon les Idées : la naissance de la cosmologie philosophique.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : Platon et la métaphysique occidentale", "resume": "Deux mille cinq cents ans de platonisme : de l'Académie à la théologie chrétienne et à la pensée moderne.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "aristote",
+      "nom": "Aristote",
+      "dates": "384 – 322 av. J.-C.",
+      "epoque": "Grèce antique, puis précepteur d'Alexandre",
+      "accroche": "Le philosophe de la méthode : tout classer, tout définir, tout expliquer par les quatre causes.",
+      "seances": [
+        {"n": 1, "titre": "Le Lycée : observer et classer", "resume": "La méthode péripatéticienne : partir du phénomène, remonter aux principes, et tout organiser.", "duree_sec": 1500},
+        {"n": 2, "titre": "Les quatre causes", "resume": "Pour expliquer une statue, il faut la matière, la forme, la cause efficiente et la cause finale.", "duree_sec": 1500},
+        {"n": 3, "titre": "La substance et les catégories", "resume": "Qu'est-ce qui existe vraiment ? La substance, et les dix catégories qui disent ce que sont les choses.", "duree_sec": 1500},
+        {"n": 4, "titre": "Le mouvement et le premier moteur", "resume": "Tout mouvement suppose un moteur : jusqu'au premier moteur immobile, cause finale de l'univers.", "duree_sec": 1500},
+        {"n": 5, "titre": "L'âme et la vie", "resume": "De anima : l'âme comme forme du corps vivant, de la nutrition à la pensée.", "duree_sec": 1500},
+        {"n": 6, "titre": "La vertu comme juste milieu", "resume": "Éthique à Nicomaque : le courage est entre la lâcheté et la témérité ; la vertu est une habitude.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'amitié et le bonheur", "resume": "L'eudaimonia, la vie réussie : pourquoi l'amitié est nécessaire au bonheur et quelles en sont les trois espèces.", "duree_sec": 1500},
+        {"n": 8, "titre": "La rhétorique et la tragédie", "resume": "Convaincre par l'ethos, le pathos et le logos ; la catharsis qui purge la pitié et la crainte.", "duree_sec": 1500},
+        {"n": 9, "titre": "L'homme, animal politique", "resume": "La Politique : la cité existe par nature et le citoyen participe au gouvernement.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : la pensée d'Aristote aujourd'hui", "resume": "De la logique à la biologie, pourquoi Aristote reste le maître de la pensée classificatrice.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "epicure",
+      "nom": "Épicure",
+      "dates": "341 – 270 av. J.-C.",
+      "epoque": "Grèce hellénistique, Athènes",
+      "accroche": "Le philosophe du Jardin : le bonheur dépend de nous, et la mort n'est rien pour nous.",
+      "seances": [
+        {"n": 1, "titre": "Le Jardin et la philosophie comme médecine de l'âme", "resume": "La Lettre à Ménécée : la philosophie n'a pas d'âge, elle guérit l'âme comme la médecine guérit le corps.", "duree_sec": 1500},
+        {"n": 2, "titre": "La physique : atomes et vide", "resume": "Tout est fait d'atomes qui tombent dans le vide ; les mondes sont innombrables et les dieux ne s'occupent pas de nous.", "duree_sec": 1500},
+        {"n": 3, "titre": "La mort n'est rien pour nous", "resume": "« Quand nous sommes, la mort n'est pas ; quand la mort est, nous ne sommes plus » : la fin de la peur.", "duree_sec": 1500},
+        {"n": 4, "titre": "Le plaisir, principe et fin de la vie heureuse", "resume": "Le plaisir est le commencement et la fin de la vie heureuse — mais lequel ? Les plaisirs naturels et nécessaires d'abord.", "duree_sec": 1500},
+        {"n": 5, "titre": "L'ataraxie et l'aponie", "resume": "La tranquillité de l'âme et l'absence de douleur du corps : le vrai bonheur est dans le repos, pas dans l'excès.", "duree_sec": 1500},
+        {"n": 6, "titre": "L'amitié et la communauté du Jardin", "resume": "« De tous les biens que la sagesse procure, le plus grand est l'amitié » : vivre entre amis, loin de la politique.", "duree_sec": 1500},
+        {"n": 7, "titre": "Les dieux existent, mais autrement", "resume": "Les dieux sont beaux et immortels, mais ils vivent entre les mondes, indifférents aux hommes.", "duree_sec": 1500},
+        {"n": 8, "titre": "Contre la superstition et la crainte", "resume": "La peur des dieux et de la mort ruine la vie : la physique épicurienne libère de ces terreurs.", "duree_sec": 1500},
+        {"n": 9, "titre": "Épicure contre Platon et Aristote", "resume": "Contre la téléologie et la politique : vivre caché, cultiver son jardin, chercher le plaisir durable.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : le bonheur à portée de main", "resume": "L'hédonisme d'Épicure mal compris : pourquoi le bonheur simple est peut-être le plus sage.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "marc-aurele",
+      "nom": "Marc Aurèle",
+      "dates": "121 – 180 apr. J.-C.",
+      "epoque": "Empire romain, stoïcien",
+      "accroche": "Les Pensées d'un empereur philosophe : méditer sur le logos, la mort et ce qui dépend de nous.",
+      "seances": [
+        {"n": 1, "titre": "L'empereur philosophe et les Pensées", "resume": "Écrites en grec au camp militaire, les Pensées sont un journal intime destiné à soi-même, pas un traité publié.", "duree_sec": 1500},
+        {"n": 2, "titre": "« Tout ce qui arrive est dans l'ordre du monde »", "resume": "Le logos universel qui gouverne tout : accepter l'ordre cosmique plutôt que de se révolter contre le destin.", "duree_sec": 1500},
+        {"n": 3, "titre": "Ce qui dépend de nous et ce qui n'en dépend pas", "resume": "La dichotomie du contrôle, reprise par Épictète : notre jugement dépend de nous, le reste non.", "duree_sec": 1500},
+        {"n": 4, "titre": "La mort et l'impermanence", "resume": "Tout passe comme la fumée : méditer sur la brièveté de la vie pour ne pas perdre de temps en vaines agitations.", "duree_sec": 1500},
+        {"n": 5, "titre": "La cité du monde", "resume": "Cosmopolitisme : nous sommes citoyens de l'univers, nés pour coopérer comme les mains et les pieds d'un même corps.", "duree_sec": 1500},
+        {"n": 6, "titre": "Les passions naissent de nos jugements", "resume": "Ce ne sont pas les événements qui nous troublent, mais le jugement que nous portons sur eux.", "duree_sec": 1500},
+        {"n": 7, "titre": "Les autres et la justice", "resume": "Même envers ceux qui nous font du tort : la clémence, la franchise, et la nature sociale de l'homme.", "duree_sec": 1500},
+        {"n": 8, "titre": "Une discipline du matin au soir", "resume": "Rituels stoïciens : la revue du matin, l'examen du soir, et la pratique quotidienne de la vertu.", "duree_sec": 1500},
+        {"n": 9, "titre": "Le stoïcisme romain : Sénèque, Épictète", "resume": "Trois voix romaines du stoïcisme : le sénateur, l'empereur et l'esclave affranchi, frères devant la raison.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : méditer avec Marc Aurèle", "resume": "Pourquoi les Pensées restent un livre de chevet : la sagesse pratique contre l'anxiété moderne.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "augustin",
+      "nom": "Augustin d'Hippone",
+      "dates": "354 – 430 apr. J.-C.",
+      "epoque": "Empire romain tardif, chrétien",
+      "accroche": "Des Confessions à la Cité de Dieu : le penseur qui a fait entrer la philosophie antique dans la pensée chrétienne.",
+      "seances": [
+        {"n": 1, "titre": "De la rhétorique à la foi", "resume": "Les Confessions : l'autobiographie spirituelle d'Augustin, du péché à la conversion à Milan.", "duree_sec": 1500},
+        {"n": 2, "titre": "Le temps et l'éternité", "resume": "Qu'est-ce que le temps ? Si personne ne me le demande, je le sais ; si je veux l'expliquer, je ne le sais plus.", "duree_sec": 1500},
+        {"n": 3, "titre": "Le mal et la liberté du vouloir", "resume": "Le mal n'est pas une substance : c'est la privation du bien, né du libre arbitre de la volonté.", "duree_sec": 1500},
+        {"n": 4, "titre": "La mémoire et l'âme", "resume": "Les vastes palais de la mémoire : l'intérieur de l'âme où Dieu habite plus intimement que nous-mêmes.", "duree_sec": 1500},
+        {"n": 5, "titre": "La Cité de Dieu", "resume": "Deux cités, deux amours : la cité terrestre et la cité de Dieu, et l'histoire comme leur lutte.", "duree_sec": 1500},
+        {"n": 6, "titre": "L'histoire et la Providence", "resume": "Contre les païens : l'histoire a un sens, dirigé par la Providence, même à travers le sac de Rome.", "duree_sec": 1500},
+        {"n": 7, "titre": "La grâce et la prédestination", "resume": "Le débat avec Pélage : le salut vient de la grâce de Dieu, non de nos seuls mérites.", "duree_sec": 1500},
+        {"n": 8, "titre": "La foi et la raison", "resume": "« Crois pour comprendre » : la foi cherche l'intelligence, et la raison éclairée par la foi.", "duree_sec": 1500},
+        {"n": 9, "titre": "Le néoplatonisme de Plotin", "resume": "Les Ennéades : l'Un, l'Intellect, l'Âme — d'où Augustin tire sa métaphysique de la lumière intérieure.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : Augustin, père de l'Occident chrétien", "resume": "L'empreinte d'Augustin sur la théologie, la psychologie et la conception chrétienne du temps.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "thomas-d-aquin",
+      "nom": "Thomas d'Aquin",
+      "dates": "1225 – 1274",
+      "epoque": "Scolastique, Paris",
+      "accroche": "Le docteur angélique : la Somme théologique, où la foi et la raison marchent ensemble.",
+      "seances": [
+        {"n": 1, "titre": "La Somme théologique : architecture d'une pensée", "resume": "Questions, articles, objections, réponses : la méthode scolastique appliquée à toute la théologie.", "duree_sec": 1500},
+        {"n": 2, "titre": "Les cinq preuves de l'existence de Dieu", "resume": "Le mouvement, la causalité, la contingence, les degrés de perfection, la finalité : la raison peut démontrer Dieu.", "duree_sec": 1500},
+        {"n": 3, "titre": "Dieu, l'être même subsistant", "resume": "L'esse subsistens : Dieu n'est pas un étant parmi d'autres, il est l'acte pur d'exister.", "duree_sec": 1500},
+        {"n": 4, "titre": "La création et la nature", "resume": "Le monde créé ex nihilo, et la nature comme livre où Dieu se lit : science et foi ne se contredisent pas.", "duree_sec": 1500},
+        {"n": 5, "titre": "L'homme : âme raisonnable et corps", "resume": "L'âme humaine est forme du corps, créée par Dieu, immortelle et jugée après la mort.", "duree_sec": 1500},
+        {"n": 6, "titre": "La loi naturelle et la loi révélée", "resume": "La loi éternelle, la loi naturelle que la raison découvre, et la loi révélée des Écritures.", "duree_sec": 1500},
+        {"n": 7, "titre": "Les vertus, les passions, les péchés capitaux", "resume": "Vertus théologales et cardinales, les sept péchés capitaux et la structure de la vie morale.", "duree_sec": 1500},
+        {"n": 8, "titre": "Le bonheur et la vision béatifique", "resume": "Le bonheur parfait n'est pas de ce monde : il est dans la vision directe de Dieu après la mort.", "duree_sec": 1500},
+        {"n": 9, "titre": "Foi et science au XIIIe siècle", "resume": "Thomas aristotélicien : la philosophie païenne au service de la théologie, sans renier la raison.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : le thomisme aujourd'hui", "resume": "De la Somme aux encycliques modernes, pourquoi Thomas d'Aquin reste une référence majeure.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "machiavel",
+      "nom": "Nicolas Machiavel",
+      "dates": "1469 – 1527",
+      "epoque": "Renaissance, Florence",
+      "accroche": "Le Prince et les Discours : la politique pensée comme elle est, pas comme on voudrait qu'elle soit.",
+      "seances": [
+        {"n": 1, "titre": "Florence, les Médicis et Le Prince", "resume": "Dédié à Laurent de Médicis, Le Prince naît de l'échec de Machiavel à sauver la république florentine.", "duree_sec": 1500},
+        {"n": 2, "titre": "La fortune et la virtu", "resume": "La fortune est une femme qu'il faut dompter : la virtu du prince, c'est l'art de s'adapter aux circonstances.", "duree_sec": 1500},
+        {"n": 3, "titre": "« Mieux vaut être craint qu'aimé »", "resume": "L'analyse froide des moyens de gouverner : pourquoi l'amour est fragile et la crainte plus sûre.", "duree_sec": 1500},
+        {"n": 4, "titre": "Les moyens et la fin en politique", "resume": "La cruauté bien employée, la nécessité des lois et des armées : la politique a ses propres règles.", "duree_sec": 1500},
+        {"n": 5, "titre": "Les Discours sur Tite-Live : la république", "resume": "La Rome antique comme modèle : le peuple, plus sage que les princes, et les conflits qui font la liberté.", "duree_sec": 1500},
+        {"n": 6, "titre": "La religion comme instrument du pouvoir", "resume": "Machiavel admire la religion des Romains comme ciment de la cité, non comme vérité révélée.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'art de la guerre", "resume": "Les mercenaires sont inutiles : un prince doit avoir ses propres armes et connaître la guerre.", "duree_sec": 1500},
+        {"n": 8, "titre": "Le machiavélisme : lecture et caricature", "resume": "Comment on a lu Machiavel : de la damnation morale à la science politique moderne.", "duree_sec": 1500},
+        {"n": 9, "titre": "La naissance de la politique moderne", "resume": "Machiavel fonde la politique sur les faits réels de l'homme, non sur la morale ou la religion.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : relire Machiavel sans caricature", "resume": "Le citoyen lucide plutôt que le tyran cynique : ce que Le Prince dit vraiment de la liberté.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "descartes",
+      "nom": "René Descartes",
+      "dates": "1596 – 1650",
+      "epoque": "Grand Siècle, France et Europe",
+      "accroche": "Le fondateur de la philosophie moderne : le doute méthodique, le cogito et la science mécaniste.",
+      "seances": [
+        {"n": 1, "titre": "Le doute méthodique et le Discours de la méthode", "resume": "Pour trouver la vérité, douter de tout ce qui peut être douteux, jusqu'aux évidences des sens.", "duree_sec": 1500},
+        {"n": 2, "titre": "Le cogito : « Je pense, donc je suis »", "resume": "La première certitude : tant que je doute, je pense, donc il y a bien un moi qui pense.", "duree_sec": 1500},
+        {"n": 3, "titre": "Dieu garant de la vérité", "resume": "L'idée de Dieu en moi prouve son existence, et sa véracité garantit mes idées claires et distinctes.", "duree_sec": 1500},
+        {"n": 4, "titre": "L'âme et le corps", "resume": "Les deux substances : la pensée et l'étendue, et leur union dans l'homme aux Passions de l'âme.", "duree_sec": 1500},
+        {"n": 5, "titre": "La physique mécaniste", "resume": "Le monde est une machine : mêmes lois, mêmes mouvements, de la chute des corps aux animaux.", "duree_sec": 1500},
+        {"n": 6, "titre": "Les Méditations métaphysiques", "resume": "Six méditations pour fonder la connaissance : de l'existence de Dieu à la distinction réelle de l'âme et du corps.", "duree_sec": 1500},
+        {"n": 7, "titre": "La morale provisoire", "resume": "En attendant la morale définitive, suivre les lois, être ferme dans ses résolutions, changer ses désirs plutôt que le monde.", "duree_sec": 1500},
+        {"n": 8, "titre": "Les Regulae : la méthode universelle", "resume": "Quatre règles pour bien conduire sa raison : évidence, analyse, synthèse, dénombrement.", "duree_sec": 1500},
+        {"n": 9, "titre": "Descartes et la naissance de la science moderne", "resume": "De Galilée à Newton : la mathématisation de la nature et le programme d'une science universelle.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : le sujet cartésien", "resume": "Le moi pensant comme fondement : ce que la modernité doit au cogito et ses critiques.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "spinoza",
+      "nom": "Baruch Spinoza",
+      "dates": "1632 – 1677",
+      "epoque": "Provinces-Unies, Amsterdam",
+      "accroche": "L'Éthique démontrée selon l'ordre géométrique : Dieu, la Nature, les passions et la liberté.",
+      "seances": [
+        {"n": 1, "titre": "La vie de Spinoza et l'Éthique", "resume": "Excommunié de la communauté juive, Spinoza vit de la taille de lentilles et écrit son œuvre majeure.", "duree_sec": 1500},
+        {"n": 2, "titre": "Dieu ou la Nature (Deus sive Natura)", "resume": "Une seule substance, infinie, qui est à la fois Dieu et la Nature : le panthéisme de Spinoza.", "duree_sec": 1500},
+        {"n": 3, "titre": "Les modes de la substance unique", "resume": "Les choses finies ne sont pas des substances mais des modes, des affections de Dieu-Nature.", "duree_sec": 1500},
+        {"n": 4, "titre": "La nécessité et l'absence de libre arbitre", "resume": "Tout découle nécessairement de la nature de Dieu : l'homme qui croit choisir ne fait que suivre la nécessité.", "duree_sec": 1500},
+        {"n": 5, "titre": "Les affects et les passions", "resume": "La partie IV de l'Éthique : comment les passions naissent de l'ignorance et comment les vaincre.", "duree_sec": 1500},
+        {"n": 6, "titre": "La béatitude et l'amour intellectuel de Dieu", "resume": "La partie V : connaître Dieu par intuition, et l'amour intellectuel de Dieu comme salut de l'homme.", "duree_sec": 1500},
+        {"n": 7, "titre": "Le Traité théologico-politique", "resume": "La liberté de penser et d'exprimer ses opinions est le fondement de l'État démocratique.", "duree_sec": 1500},
+        {"n": 8, "titre": "La politique : démocratie, monarchie, aristocratie", "resume": "Le Traité politique : quel est le meilleur régime, et pourquoi la monarchie bien ordonnée peut suffire.", "duree_sec": 1500},
+        {"n": 9, "titre": "Spinoza contre Descartes", "resume": "Contre les deux substances : une seule substance évite le problème de l'interaction âme-corps.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : la liberté par la connaissance", "resume": "Être libre, c'est comprendre la nécessité : la sagesse de Spinoza face aux passions humaines.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "leibniz",
+      "nom": "Gottfried Wilhelm Leibniz",
+      "dates": "1646 – 1716",
+      "epoque": "Baroque, Allemagne et Europe",
+      "accroche": "Les monades, le meilleur des mondes possibles et le calcul universel : le dernier universaliste.",
+      "seances": [
+        {"n": 1, "titre": "Le meilleur des mondes possibles", "resume": "La Théodicée : Dieu a choisi, parmi tous les mondes possibles, celui qui contient le moins de mal.", "duree_sec": 1500},
+        {"n": 2, "titre": "Les monades, miroirs du monde", "resume": "Chaque monade est une substance simple qui exprime tout l'univers d'un certain point de vue.", "duree_sec": 1500},
+        {"n": 3, "titre": "Le problème du mal", "resume": "Si Dieu est bon et tout-puissant, pourquoi le mal existe-t-il ? La réponse par l'harmonie préétablie.", "duree_sec": 1500},
+        {"n": 4, "titre": "La caractéristique universelle et le calcul", "resume": "Un langage symbolique universel où raisonner devient calculer : le rêve d'une logique formelle.", "duree_sec": 1500},
+        {"n": 5, "titre": "La Monadologie", "resume": "Quatre-vingt-dix propositions sur les monades, leur création par Dieu et leur préharmonie.", "duree_sec": 1500},
+        {"n": 6, "titre": "Espace, temps et relativité", "resume": "L'espace et le temps ne sont pas des substances mais des relations entre les monades.", "duree_sec": 1500},
+        {"n": 7, "titre": "Leibniz contre Newton", "resume": "Le calcul infinitésimal, la querelle de priorité, et deux conceptions de l'espace absolu ou relatif.", "duree_sec": 1500},
+        {"n": 8, "titre": "Le droit naturel et la justice", "resume": "La justice comme sagesse de Dieu : aimer ce qui est sage et juger ce qui est juste.", "duree_sec": 1500},
+        {"n": 9, "titre": "Leibniz savant", "resume": "Mathématiques, physique, géologie, droit : l'encyclopédiste qui fonde les académies des sciences.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : l'optimisme raisonné de Leibniz", "resume": "Pourquoi Voltaire s'est moqué de Pangloss, et ce que le « meilleur des mondes » veut dire vraiment.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "locke",
+      "nom": "John Locke",
+      "dates": "1632 – 1704",
+      "epoque": "Angleterre, Lumières naissantes",
+      "accroche": "L'empirisme fondateur et le père du libéralisme politique : tout vient de l'expérience, le pouvoir appartient au peuple.",
+      "seances": [
+        {"n": 1, "titre": "L'Essai sur l'entendement humain", "resume": "Contre les idées innées : l'esprit est une table rase où l'expérience écrit toutes nos idées.", "duree_sec": 1500},
+        {"n": 2, "titre": "Les idées simples et les idées complexes", "resume": "Les impressions des sens et les opérations de l'esprit : combinaison, comparaison, abstraction.", "duree_sec": 1500},
+        {"n": 3, "titre": "Les qualités premières et secondes", "resume": "La solidité et l'étendue appartiennent aux corps ; les couleurs et les sons n'existent que dans l'esprit.", "duree_sec": 1500},
+        {"n": 4, "titre": "Le gouvernement civil et le droit naturel", "resume": "À l'état de nature, les hommes sont libres et égaux ; le gouvernement existe pour protéger la vie, la liberté et les biens.", "duree_sec": 1500},
+        {"n": 5, "titre": "La propriété et le travail", "resume": "Chacun a droit à sa personne et au produit de son travail : la terre appartient à celui qui la cultive.", "duree_sec": 1500},
+        {"n": 6, "titre": "La tolérance religieuse", "resume": "Lettre sur la tolérance : l'État ne doit pas s'occuper du salut des âmes, la foi ne se commande pas.", "duree_sec": 1500},
+        {"n": 7, "titre": "La séparation des pouvoirs", "resume": "Législatif, exécutif, fédératif : le pouvoir suprême appartient au peuple, délégué au Parlement.", "duree_sec": 1500},
+        {"n": 8, "titre": "L'éducation", "resume": "Quelques pensées sur l'éducation : former le gentleman par l'habitude, la discipline douce et l'exemple.", "duree_sec": 1500},
+        {"n": 9, "titre": "Locke et les Lumières", "resume": "De la Glorieuse Révolution de 1688 aux révolutions américaine et française : l'héritage politique de Locke.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : l'empirisme et la liberté", "resume": "La connaissance fondée sur l'expérience, le gouvernement fondé sur le consentement : la modernité lockienne.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "hume",
+      "nom": "David Hume",
+      "dates": "1711 – 1776",
+      "epoque": "Écosse, Lumières",
+      "accroche": "Le sceptique modéré : la causalité n'est qu'habitude, le moi un faisceau de perceptions, la morale fondée sur le sentiment.",
+      "seances": [
+        {"n": 1, "titre": "Le Traité de la nature humaine", "resume": "Une science de l'homme fondée sur l'observation, comme la physique de Newton appliquée à l'esprit.", "duree_sec": 1500},
+        {"n": 2, "titre": "Impressions et idées", "resume": "Toutes nos idées viennent des impressions des sens ou des passions : la copie affaiblie de la perception.", "duree_sec": 1500},
+        {"n": 3, "titre": "La causalité n'est qu'habitude", "resume": "Nous ne voyons jamais la nécessité entre les causes et les effets : seulement une habitude de l'esprit.", "duree_sec": 1500},
+        {"n": 4, "titre": "Le moi, faisceau de perceptions", "resume": "Quand je cherche mon moi, je ne trouve que des perceptions : l'identité personnelle n'est qu'une fiction commode.", "duree_sec": 1500},
+        {"n": 5, "titre": "Le scepticisme et les limites de la raison", "resume": "La raison est l'esclave des passions : elle ne peut démontrer ni la causalité, ni Dieu, ni le moi.", "duree_sec": 1500},
+        {"n": 6, "titre": "La morale fondée sur le sentiment", "resume": "La vertu nous fait plaisir, le vice nous déplaît : la morale naît de la sympathie, non de la raison.", "duree_sec": 1500},
+        {"n": 7, "titre": "La religion naturelle et les Dialogues", "resume": "La religion vient de la crainte, pas de la raison : Hume discute les arguments du dessein et de la providence.", "duree_sec": 1500},
+        {"n": 8, "titre": "L'histoire et la politique", "resume": "L'Histoire d'Angleterre : les partis, la liberté de la presse, et les leçons du passé pour le présent.", "duree_sec": 1500},
+        {"n": 9, "titre": "Hume et Kant : « il m'a réveillé de mon sommeil dogmatique »", "resume": "Comment le scepticisme de Hume a forcé Kant à fonder autrement la connaissance.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : le scepticisme modéré de Hume", "resume": "Ni dogmatisme ni nihilisme : vivre, philosopher et agir malgré les limites de la raison.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "rousseau",
+      "nom": "Jean-Jacques Rousseau",
+      "dates": "1712 – 1778",
+      "epoque": "Siècle des Lumières, Genève et France",
+      "accroche": "Le citoyen de Genève : l'homme naturel, le contrat social et la volonté générale.",
+      "seances": [
+        {"n": 1, "titre": "Les Confessions et le « je » moderne", "resume": "Rousseau invente l'autobiographie introspective : se raconter pour se comprendre, sans fard.", "duree_sec": 1500},
+        {"n": 2, "titre": "Discours sur les sciences et les arts", "resume": "Le progrès des arts et des sciences corrompt les mœurs : la réponse qui fait gagner le concours de Dijon.", "duree_sec": 1500},
+        {"n": 3, "titre": "L'origine de l'inégalité parmi les hommes", "resume": "L'homme naît bon, c'est la société qui le corrompt : la propriété foncière fonde l'inégalité.", "duree_sec": 1500},
+        {"n": 4, "titre": "L'état de nature et la perfectibilité", "resume": "L'homme de la nature est solitaire et heureux ; la perfectibilité le pousse à se perfectionner... et à se perdre.", "duree_sec": 1500},
+        {"n": 5, "titre": "Le Contrat social", "resume": "« L'homme est né libre, et partout il est dans les fers » : fonder la légitimité politique sur le contrat.", "duree_sec": 1500},
+        {"n": 6, "titre": "La volonté générale et la souveraineté", "resume": "Chacun s'unit à tous mais n'obéit qu'à lui-même : la souveraineté du peuple, inaliénable et indivisible.", "duree_sec": 1500},
+        {"n": 7, "titre": "Émile ou De l'éducation", "resume": "L'éducation naturelle : laisser l'enfant grandir selon la nature, apprendre par l'expérience.", "duree_sec": 1500},
+        {"n": 8, "titre": "La profession de foi du vicaire savoyard", "resume": "La religion naturelle de Rousseau : Dieu, la conscience morale, et l'immortalité de l'âme.", "duree_sec": 1500},
+        {"n": 9, "titre": "Rousseau et la Révolution française", "resume": "Comment le Contrat social a inspiré 1789, et les débats sur la volonté générale et la Terreur.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : l'homme naturel et le citoyen", "resume": "Entre l'individu et la communauté : la tension fondatrice de la pensée politique de Rousseau.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "kant",
+      "nom": "Emmanuel Kant",
+      "dates": "1724 – 1804",
+      "epoque": "Lumières allemandes, Königsberg",
+      "accroche": "Le projet critique : de la Critique de la raison pure à l'impératif catégorique. Dix séances pour parcourir toute la pensée kantienne.",
+      "seances": [
+        {"n": 1, "titre": "La vie de Kant et le projet des trois Critiques", "resume": "Le professeur de Königsberg, sa vie réglée comme une horloge, et l'entreprise de juger les limites de la raison.", "duree_sec": 1500},
+        {"n": 2, "titre": "La révolution copernicienne", "resume": "Ce n'est pas la connaissance qui se règle sur l'objet, mais l'objet qui se règle sur la connaissance.", "duree_sec": 1500},
+        {"n": 3, "titre": "La sensibilité : l'espace et le temps", "resume": "L'Esthétique transcendantale : l'espace et le temps sont les formes a priori de notre sensibilité.", "duree_sec": 1500},
+        {"n": 4, "titre": "L'entendement et les douze catégories", "resume": "L'Analytique transcendantale : la pensée applique les catégories à l'intuition pour faire des jugements.", "duree_sec": 1500},
+        {"n": 5, "titre": "Les antinomies et l'Idéal de la raison", "resume": "La Dialectique transcendantale : quand la raison dépasse l'expérience, elle se contredit — et pourtant elle cherche l'inconditionné.", "duree_sec": 1500},
+        {"n": 6, "titre": "Le noumène et la liberté", "resume": "Fondements de la métaphysique des mœurs : la liberté comme fait de la raison, et le monde nouménal.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'impératif catégorique", "resume": "Agis selon une maxime que tu peux vouloir ériger en loi universelle : la loi morale en nous.", "duree_sec": 1500},
+        {"n": 8, "titre": "Le beau et le sublime", "resume": "La Critique de la faculté de juger : le jugement de goût est désintéressé ; le sublime nous dépasse.", "duree_sec": 1500},
+        {"n": 9, "titre": "La religion et la paix perpétuelle", "resume": "La religion dans les limites de la simple raison, et le projet d'une paix entre les États.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : « Aie le courage de te servir de ton propre entendement »", "resume": "Les Lumières selon Kant : penser par soi-même, dans les limites de la raison — et l'héritage immense de la pensée kantienne.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "hegel",
+      "nom": "Georg Wilhelm Friedrich Hegel",
+      "dates": "1770 – 1831",
+      "epoque": "Idéalisme allemand, Iéna et Berlin",
+      "accroche": "La Phénoménologie de l'Esprit et la dialectique : l'Esprit qui se réalise dans l'histoire.",
+      "seances": [
+        {"n": 1, "titre": "La Phénoménologie de l'Esprit : le chemin de la conscience", "resume": "De la certitude sensible à la raison, la conscience fait l'expérience de toutes les figures de l'esprit.", "duree_sec": 1500},
+        {"n": 2, "titre": "La dialectique maître-esclave", "resume": "La lutte à mort pour la reconnaissance : le maître et l'esclave, et le travail qui forme la conscience.", "duree_sec": 1500},
+        {"n": 3, "titre": "Thèse, antithèse, synthèse", "resume": "La dialectique hégélienne : chaque détermination engendre sa négation, et l'Aufhebung les dépasse.", "duree_sec": 1500},
+        {"n": 4, "titre": "« Ce qui est rationnel est réel, ce qui est réel est rationnel »", "resume": "La Préface de la Phénoménologie : comprendre le monde tel qu'il est, comme réalisation de la raison.", "duree_sec": 1500},
+        {"n": 5, "titre": "L'Esprit objectif, subjectif, absolu", "resume": "L'Encyclopédie : le droit, la morale, l'histoire, la religion et l'art comme objectivations de l'Esprit.", "duree_sec": 1500},
+        {"n": 6, "titre": "La philosophie du droit", "resume": "La famille, la société civile et l'État : la liberté qui se concrétise dans les institutions.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'histoire comme progrès de la liberté", "resume": "De l'Orient à l'Occident : l'Esprit du monde qui réalise la liberté à travers les peuples et les époques.", "duree_sec": 1500},
+        {"n": 8, "titre": "L'art, la religion, la philosophie", "resume": "Les trois formes de l'Esprit absolu : de l'art symbolique à la religion révélée jusqu'à la philosophie.", "duree_sec": 1500},
+        {"n": 9, "titre": "Hegel contre Kant", "resume": "Kant a laissé le noumène inconnaissable : Hegel veut penser l'absolu, et non s'arrêter au phénomène.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : la dialectique aujourd'hui", "resume": "De Marx à la pensée contemporaine : ce qui reste vivant dans la méthode hégélienne.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "kierkegaard",
+      "nom": "Søren Kierkegaard",
+      "dates": "1813 – 1855",
+      "epoque": "Danemark, Copenhague",
+      "accroche": "Le père de l'existentialisme : l'individu, la foi et le choix — contre Hegel et la foule.",
+      "seances": [
+        {"n": 1, "titre": "L'individu contre la foule", "resume": "« La vérité est subjectivité » : la foule est le non-vrai, seul l'individu existe vraiment devant Dieu.", "duree_sec": 1500},
+        {"n": 2, "titre": "Crainte et Tremblement : Abraham et la foi", "resume": "La suspension téléologique de l'éthique : la foi d'Abraham qui sacrifie Isaac, au-delà du devoir moral.", "duree_sec": 1500},
+        {"n": 3, "titre": "Le Concept de l'angoisse", "resume": "La liberté et le péché : l'angoisse est le vertige de la liberté devant le possible.", "duree_sec": 1500},
+        {"n": 4, "titre": "La Maladie à la mort : le désespoir", "resume": "Ne pas vouloir être soi-même, ou vouloir être soi-même sans Dieu : les formes du désespoir.", "duree_sec": 1500},
+        {"n": 5, "titre": "Les miettes philosophiques et le paradoxe", "resume": "Le christianisme est un paradoxe : le Dieu éternel entre dans le temps, l'infini dans le fini.", "duree_sec": 1500},
+        {"n": 6, "titre": "Ou bien... ou bien : les trois stades de l'existence", "resume": "La vie esthétique du séducteur, la vie éthique du devoir, la vie religieuse de la foi : choisir son stade.", "duree_sec": 1500},
+        {"n": 7, "titre": "Le Journal du séducteur", "resume": "Don Juan et la séduction comme principe : la jouissance sans engagement, et son échec.", "duree_sec": 1500},
+        {"n": 8, "titre": "Kierkegaard contre Hegel", "resume": "Contre le système : l'existence individuelle, le choix et le moment ne se laissent pas absorber par la totalité.", "duree_sec": 1500},
+        {"n": 9, "titre": "La chrétienté et le christianisme", "resume": "Attaque contre l'Église établie : être chrétien, c'est suivre le Christ, pas la masse des chrétiens de nom.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : exister, c'est choisir", "resume": "La subjectivité comme vérité : pourquoi Kierkegaard fonde la pensée de l'existence individuelle.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "marx",
+      "nom": "Karl Marx",
+      "dates": "1818 – 1883",
+      "epoque": "Allemagne, France, Angleterre",
+      "accroche": "De la critique de Hegel à la critique de l'économie politique : l'aliénation, le capital et l'histoire comme lutte des classes.",
+      "seances": [
+        {"n": 1, "titre": "Hegel de gauche et la critique de la philosophie du droit", "resume": "La religion, opium du peuple : critiquer le ciel pour transformer la terre, les Manuscrits de 1844.", "duree_sec": 1500},
+        {"n": 2, "titre": "L'aliénation du travail", "resume": "Le travailleur est étranger à son travail, à son produit, à son essence d'homme et aux autres hommes.", "duree_sec": 1500},
+        {"n": 3, "titre": "La conception matérialiste de l'histoire", "resume": "Ce n'est pas la conscience qui détermine l'être social, mais l'être social qui détermine la conscience.", "duree_sec": 1500},
+        {"n": 4, "titre": "Le Capital : la marchandise et la valeur", "resume": "La marchandise, valeur d'usage et valeur d'échange, et le mystère de la marchandise fétichisée.", "duree_sec": 1500},
+        {"n": 5, "titre": "La plus-value et l'exploitation", "resume": "Le salaire cache le travail non payé : la plus-value, source du profit capitaliste.", "duree_sec": 1500},
+        {"n": 6, "titre": "Les classes et la lutte des classes", "resume": "« L'histoire de toute société jusqu'ici est l'histoire de luttes de classes » : bourgeois contre prolétaires.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'État, la religion, l'idéologie", "resume": "La superstructure idéologique : l'État comme comité de gestion des affaires communes de la bourgeoisie.", "duree_sec": 1500},
+        {"n": 8, "titre": "Le communisme : une société sans classes", "resume": "De chacun selon ses capacités, à chacun selon ses besoins : l'abolition de la propriété privée des moyens de production.", "duree_sec": 1500},
+        {"n": 9, "titre": "Marx et le capitalisme contemporain", "resume": "La mondialisation, la financiarisation, le numérique : relire Le Capital au XXIe siècle.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : pourquoi lire Marx aujourd'hui", "resume": "La critique du capital reste incontournable pour comprendre le monde du travail et de l'argent.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "nietzsche",
+      "nom": "Friedrich Nietzsche",
+      "dates": "1844 – 1900",
+      "epoque": "Allemagne, Suisse, France",
+      "accroche": "« Dieu est mort » : la généalogie de la morale, la volonté de puissance et le surhumain. Philosopher à coups de marteau.",
+      "seances": [
+        {"n": 1, "titre": "La Naissance de la tragédie : Apollon et Dionysos", "resume": "L'art grec naît de deux principes : le rêve apollinien et l'ivresse dionysiaque.", "duree_sec": 1500},
+        {"n": 2, "titre": "La mort de Dieu et le nihilisme", "resume": "« Dieu est mort, et nous l'avons tué » : l'événement le plus grave de l'histoire, et le nihilisme qui menace.", "duree_sec": 1500},
+        {"n": 3, "titre": "La généalogie de la morale", "resume": "Les maîtres et les esclaves : le ressentiment des faibles invente la morale de la culpabilité.", "duree_sec": 1500},
+        {"n": 4, "titre": "Par-delà bien et mal", "resume": "Une morale pour ceux qui sont au-delà du bien et du mal : la critique de la morale altruiste.", "duree_sec": 1500},
+        {"n": 5, "titre": "Ainsi parlait Zarathoustra : le surhumain", "resume": "L'homme est un pont vers le surhumain : celui qui crée de nouvelles valeurs après la mort de Dieu.", "duree_sec": 1500},
+        {"n": 6, "titre": "La volonté de puissance", "resume": "Ce n'est pas la volonté de vivre, mais la volonté de puissance qui anime tout vivant.", "duree_sec": 1500},
+        {"n": 7, "titre": "L'éternel retour", "resume": "Et si tu devais revivre éternellement cette vie, minute par minute ? Le test suprême de l'amor fati.", "duree_sec": 1500},
+        {"n": 8, "titre": "Nietzsche contre la morale chrétienne", "resume": "La psychologie du prêtre et la morale des esclaves : pourquoi Nietzsche attaque le christianisme.", "duree_sec": 1500},
+        {"n": 9, "titre": "Nietzsche lu par ses sœurs : le nazisme ?", "resume": "Élisabeth Förster-Nietzsche falsifie l'œuvre : distinguer Nietzsche de ceux qui l'ont récupéré.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : philosopher à coups de marteau", "resume": "La destruction des idoles et la création de valeurs : l'athlète de la pensée que fut Nietzsche.", "duree_sec": 1500}
+      ]
+    },
+    {
+      "id": "bergson",
+      "nom": "Henri Bergson",
+      "dates": "1859 – 1941",
+      "epoque": "France, IIIe République",
+      "accroche": "La durée, la mémoire et l'élan vital : philosopher contre le mécanisme, pour la vie qui dure. Prix Nobel de littérature 1927.",
+      "seances": [
+        {"n": 1, "titre": "L'Essai sur les données immédiates de la conscience", "resume": "La durée véritable est qualitative, vécu intérieur : elle ne se mesure pas, elle se sent.", "duree_sec": 1500},
+        {"n": 2, "titre": "Le temps de la science et le temps vécu", "resume": "L'espace homogène du physicien contre la durée concrète de la conscience : deux temps irréductibles.", "duree_sec": 1500},
+        {"n": 3, "titre": "Matière et mémoire", "resume": "Le souvenir comme image du passé qui survit, et la mémoire-habitude contre la mémoire-souvenir.", "duree_sec": 1500},
+        {"n": 4, "titre": "L'Évolution créatrice et l'élan vital", "resume": "La vie qui pousse à travers la matière : l'élan vital explique l'évolution mieux que le mécanisme ou le finalisme.", "duree_sec": 1500},
+        {"n": 5, "titre": "La pensée et le mouvant", "resume": "L'intelligence découpe le réel en objets solides ; l'intuition saisit le mouvement et la durée.", "duree_sec": 1500},
+        {"n": 6, "titre": "Le rire et le comique", "resume": "Le rire naît quand la société traite la personne comme une chose : le mécanique plaqué sur le vivant.", "duree_sec": 1500},
+        {"n": 7, "titre": "Les Deux Sources de la morale et de la religion", "resume": "La morale close de la société et la morale ouverte de l'amour mystique ; la religion statique et la religion dynamique.", "duree_sec": 1500},
+        {"n": 8, "titre": "Bergson contre le matérialisme et le mécanisme", "resume": "La matière n'explique pas la vie : la conscience déborde toujours le cerveau qui la conditionne.", "duree_sec": 1500},
+        {"n": 9, "titre": "Bergson et la psychologie de son temps", "resume": "Contre l'associationnisme anglais : la mémoire n'est pas une somme d'images, c'est un tout vivant.", "duree_sec": 1500},
+        {"n": 10, "titre": "Bilan : la vie qui dure", "resume": "La durée, la création, la liberté : pourquoi Bergson reste le philosophe de la vie et du mouvement.", "duree_sec": 1500}
+      ]
+    }
+  ]
+}
